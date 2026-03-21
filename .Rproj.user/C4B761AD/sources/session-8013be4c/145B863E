@@ -1,26 +1,26 @@
 {
-    "id": "6F95BFAE",
+    "id": "145B863E",
     "path": "~/Documentos/Site_StatLab/styles.css",
     "project_path": "styles.css",
     "type": "css",
-    "hash": "1822677455",
+    "hash": "720960701",
     "contents": "",
     "dirty": false,
-    "created": 1774059676186.0,
+    "created": 1774096176727.0,
     "source_on_save": false,
-    "relative_order": 8,
+    "relative_order": 6,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "29,1",
-        "scrollLine": "12"
+        "cursorPosition": "83,1",
+        "scrollLine": "66"
     },
     "folds": "",
-    "lastKnownWriteTime": 1774059683,
+    "lastKnownWriteTime": 1774096191,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1774059683589,
+    "last_content_update": 1774096191176,
     "read_only": false,
     "read_only_alternatives": []
 }

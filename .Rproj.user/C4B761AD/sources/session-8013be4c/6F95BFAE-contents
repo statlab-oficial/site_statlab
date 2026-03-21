@@ -28,3 +28,24 @@
 .g-col-3 img {
   border-radius: 50%;
 }
+
+
+.apoio-item {
+  text-align: center;
+  padding: 20px;
+}
+
+.apoio-item img {
+  max-width: 180px;
+  max-height: 90px;
+  object-fit: contain;
+  filter: grayscale(100%);
+  opacity: 0.8;
+  transition: all 0.3s ease;
+}
+
+.apoio-item img:hover {
+  filter: grayscale(0%);
+  opacity: 1;
+  transform: scale(1.05);
+}
