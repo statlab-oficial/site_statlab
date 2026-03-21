@@ -40,7 +40,7 @@ O StatLab é um espaço de inovação que integra <strong>pesquisa, ensino e ext
 
 
 
-## 🔬 Linhas de Pesquisa
+## 🔬 Linhas de Pesquisa {.test}
 
 ::: {.grid}
 
@@ -79,15 +79,20 @@ Na área de Edumetria, o StatLab combina a precisão da análise quantitativa co
 
 
 
-## 🤝 Parceiros
+## 🤝 Parceiros {.test}
 
-<div style="text-align: center; opacity: 0.7;">
-Em breve
-</div>
+::: {.grid}
+
+::: {.g-col-6 .g-col-md-4}
+<a href="https://obe.icmc.usp.br/" target="_blank" class="apoio-card">
+![](logo_escrito.png)
+</a>
+:::
+
+:::
 
 
-
-## 🏛️ Apoio
+## 🏛️ Apoio{.test}
 
 ::: {.grid}
 
