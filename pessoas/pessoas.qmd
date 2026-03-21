@@ -6,12 +6,12 @@ callout-icon: false
 
 ::: {.panel-tabset}
 
-## Professores
+## Professores(as)
 
 <div class="grid">
   
 <div class="g-col-3">
-![](images/ale.jpeg){width=100%}
+![](images/fotopadrao.png){width=100%}
 **ALESSANDRA CRISTINA DA SILVA FARIAS**  
 Descrição breve (ex: área de atuação)
 </div>
@@ -29,7 +29,7 @@ Descrição breve
 </div>
 
 <div class="g-col-3">
-![](images/juvencio.jpeg){width=100%}
+![](images/fotopadrao.png){width=100%}
 **JUVENCIO SANTOS NOBRE**  
 Descrição breve
 </div>
@@ -54,7 +54,7 @@ Descrição breve
 </div>
 
 <div class="g-col-3">
-![](images/rafael.jpeg){width=100%}
+![](images/fotopadrao.png){width=100%}
 
 
 **RAFAEL BRAZ AZEVEDO FARIAS**  
@@ -69,7 +69,7 @@ Descrição breve
 
 </div>
 
-## Bolsistas Remunerados
+## Bolsistas Remunerados(as)
 
 <div class="grid">
 
@@ -100,7 +100,7 @@ Voluntário
 </div>
 
 
-## Bolsistas Voluntários
+## Bolsistas Voluntários(as)
 
 <div class="grid">
 

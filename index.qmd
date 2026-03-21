@@ -33,12 +33,12 @@ O StatLab é um espaço de inovação que integra <strong>pesquisa, ensino e ext
 ::: {.callout-important appearance="minimal"}
 ## 📢 Notícias
 
-- **(20.03.2026)** StatLab é parceiro da Olimpíada Brasileira de Estatística (OBE) e reforça o incentivo ao ensino de Estatística.
+- **(20.03.2026)** StatLab é parceiro da Olimpíada Brasileira de Estatística (OBE) e reforça o incentivo na divulgação da Estatística nas escolas de Ensino Médio.
 :::
 
 :::
 
-
+------
 
 ## 🔬 Linhas de Pesquisa {.test}
 
