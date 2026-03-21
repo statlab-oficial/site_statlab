@@ -1,0 +1,15 @@
+/* css styles */
+
+#para1 {
+  color: #918c94;
+  text-align: justify;
+}
+
+#para2 {
+  color: black;
+  text-align: justify;
+}
+
+.test h3 {
+  text-align: center;
+}
