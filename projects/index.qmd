@@ -130,6 +130,18 @@ A agenda 2030 das Nações Unidas define 17 Objetivos para o Desenvolvimento Sus
 </div>
 </div>
 
+
+<div class="project-card">
+<div class="project-title">
+<span class="project-icon">🐟</span>
+Modelagem integrada na dinâmica populacional de Panulirus argus e Panulirus laevicauda no Brasil: subsídios para avaliação de estoques e definição de cotas de captura
+
+</div>
+<div class="project-desc">
+Este projeto desenvolverá uma metodologia estatística para avaliar os estoques pesqueiros das lagostas vermelha e verde no Brasil, revisando os parâmetros biológicos, reconstruindo séries de esforço de pesca e organizando dados de exportação. Aplicará modelos estatísticos para estimar o rendimento máximo sustentável e o limite de captura, articulando esforços para avançar na certificação ambiental (MSC) e atender os Objetivos de Desenvolvimento Sustentável, especialmente os ODS 8, 12, 14, e 17.
+</div>
+</div>
+
 </div>
 
 

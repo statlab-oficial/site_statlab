@@ -42,21 +42,18 @@ Descrição breve
 
 <div class="g-col-3">
 ![](images/fotopadrao.png){width=100%}
-**MANOEL FERREIRA DOS SANTOS NETO**  
+**MANOEL F. DOS SANTOS NETO**  
 Descrição breve
 </div>
 
 <div class="g-col-3">
 ![](images/fotopadrao.png){width=100%}
-
 **MARIA JACQUELINE BATISTA**  
 Descrição breve
 </div>
 
 <div class="g-col-3">
 ![](images/fotopadrao.png){width=100%}
-
-
 **RAFAEL BRAZ AZEVEDO FARIAS**  
 Descrição breve
 </div>
