@@ -172,55 +172,126 @@ window.Quarto = {
 </header>
 
 
-<section id="extensão" class="level2">
-<h2 class="anchored" data-anchor-id="extensão">Extensão</h2>
-<div class="callout callout-style-default callout-tip no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
+<style>
+.projects-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+}
+
+.project-card {
+  background: #ffffff;
+  border-radius: 14px;
+  padding: 18px 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  transition: all 0.25s ease;
+  border-left: 5px solid #2c7be5;
+  cursor: pointer;
+}
+
+.project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 22px rgba(0,0,0,0.12);
+}
+
+.project-title {
+  font-weight: 600;
+  font-size: 1.05em;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.project-icon {
+  font-size: 1.2em;
+}
+
+.project-desc {
+  margin-top: 10px;
+  color: #555;
+  line-height: 1.5;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.35s ease;
+}
+
+.project-card.active .project-desc {
+  max-height: 200px;
+}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll(".project-card").forEach(card => {
+    card.addEventListener("click", () => {
+      card.classList.toggle("active");
+    });
+  });
+});
+</script>
+<section id="extensão" class="level1">
+<h1>Extensão</h1>
+<section id="ações" class="level2">
+<h2 class="anchored" data-anchor-id="ações">Ações</h2>
+<div class="projects-grid">
+<div class="project-card">
+<div class="project-title">
+<p><span class="project-icon">📊</span> Laboratório de Inovação em Estatística (2 bolsistas remunerados, 15 bolsistas voluntários).</p>
 </div>
-<div class="callout-title-container flex-fill">
-Ações
+<div class="project-desc">
+<p>O Laboratório de Inovação em Estatística - StatLab pretende ser um centro multidisciplinar que não só busca avançar o conhecimento teórico em Estatística e Ciência de Dados, mas também promover sua aplicação prática através de extensões comunitárias,consultoria e pesquisa. Este projeto reforça o papel da UFC como uma instituição na vanguarda da inovação na área de Estatística e Ciência de Dados, trazendo benefícios diretos para a sociedade em diversas formas.</p>
 </div>
 </div>
-<div class="callout-body-container callout-body">
-<ol type="1">
-<li><p id="para2">
-Laboratório de Inovação em Estatística (2 bolsistas remunerados, 15 bolsistas voluntários).
-</p></li>
-<li><p id="para2">
-Cultura de Dados e Extensão Universitária: integrando formação acadêmica e impacto social (2 bolsistas remunerados).
-</p></li>
-</ol>
+<div class="project-card">
+<div class="project-title">
+<p><span class="project-icon">📊</span> Cultura de Dados e Extensão Universitária: integrando formação acadêmica e impacto social (2 bolsistas remunerados).</p>
+</div>
+<div class="project-desc">
+<p>Consolidar o StatLab como referência em Estatística e Ciência de Dados aplicado à extensão, unindo formação prática, divulgação científica e apoio a competições acadêmicas, com destaque para a Olimpíada Brasileira de Estatística.</p>
+</div>
 </div>
 </div>
 </section>
-<section id="pesquisa" class="level2">
-<h2 class="anchored" data-anchor-id="pesquisa">Pesquisa</h2>
+</section>
+<section id="pesquisa" class="level1">
+<h1>Pesquisa</h1>
+<section id="projetos-ativos" class="level3">
+<h3 class="anchored" data-anchor-id="projetos-ativos">Projetos Ativos</h3>
+<div class="projects-grid">
+<div class="project-card">
+<div class="project-title">
+<p><span class="project-icon">📊</span> Chamada CNPq/MCTI /FNDCT N 44/2024 — Modelos de Regressão e Extensões</p>
+</div>
+<div class="project-desc">
+<p>Neste projeto, temos por objetivo desenvolver métodos de avaliação de modelos, tanto no aspecto de métodos de diagnóstico como também no aspecto de seleção via testes de hipóteses para diferentes classes de modelos de regressão.</p>
+</div>
+</div>
+<div class="project-card">
+<div class="project-title">
+<p><span class="project-icon">📈</span> Métodos de diagnóstico e testes em regressão para dados correlacionados</p>
+</div>
+<div class="project-desc">
+<p>Bolsa de produtividade em pesquisa nível C - Prof.&nbsp;Juvêncio Santos Nobre</p>
+</div>
+</div>
+<div class="project-card">
+<div class="project-title">
+<p><span class="project-icon">🎓</span> Cientista Chefe da Transformação Digital no Ceará</p>
+</div>
+<div class="project-desc">
+<p>A agenda 2030 das Nações Unidas define 17 Objetivos para o Desenvolvimento Sustentável (ODS) para orientar governos, sociedade civil, setor privado e outras partes interessadas em seus esforços para erradicar a pobreza e promover um mundo melhor. Desta agenda, destacamos o ODS#1 (erradicação da pobreza) e ODS#2 (fome zero) enquanto principais alvos deste metaprojeto aqui proposto, cujo meio para atingi-los será uma transformação digital perene, inclusiva e ancorada em boas práticas de pesquisas científicas em Tecnologias da Informação e Comunicação (TICs). Os governos de todo o mundo estão cientes da necessidade de aplicar TICs em sua governança para avançar sua capacidade de prestar serviços públicos de forma proativa e chegando no cidadão comum vulnerável, que é quem mais precisa do Estado. Um dos grandes desafios neste cenário é o acesso e a análise de dados para tomada de decisão assertiva com foco no Ceará sem Fome, um programa do Governo do Ceará para levar comida saudável à mesa de cearenses em situação de extrema pobreza. Neste contexto, este projeto propõe plataformas digitais para análise de dados sociais para diagnóstico, identificação de microtendências e planejamento estratégico de soluções que de fato atendam o cidadão. Este é um projeto financiado pela FUNCAP e coordenado pelo Cientista Chefe de Transformação Digital do Governo do Ceará, cujo órgão beneficiado é a Casa Civil do Estado. Trata-se de uma parceria entre o Grupo de Pesquisa em Redes, Engenharia de Software e Sistemas (GREat) da Universidade Federal do Ceará e o Laboratório de Inovação e Dados do Governo do Estado do Ceará.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="grupos-de-pesquisa" class="level3">
+<h3 class="anchored" data-anchor-id="grupos-de-pesquisa">Grupos de Pesquisa</h3>
 <div class="callout callout-style-default callout-tip no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Projetos Ativos
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ol type="1">
-<li><p id="para2">
-Modelo de regressão gama inversa com zeros ajustados (Pesquisador(es): 03, Discente(s): 03).
-</p></li>
-</ol>
-</div>
-</div>
-<div class="callout callout-style-default callout-tip no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Grupos de Pesquisa
+Grupos
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -232,6 +303,7 @@ Grupos de Pesquisa
 </ol>
 </div>
 </div>
+</section>
 </section>
 <section id="publicações" class="level1">
 <h1>Publicações</h1>
