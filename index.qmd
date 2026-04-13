@@ -27,7 +27,7 @@ callout-icon: false
 ::: {#hero}
 
 <p class="lead" id="para1" >
-O StatLab é um espaço de inovação que integra <strong>pesquisa, ensino e extensão</strong>, promovendo o uso da Estatística para gerar impacto real na sociedade. Atuamos na fronteira entre teoria e prática, desenvolvendo soluções baseadas em dados para desafios contemporâneos.
+O Laboratório de Inovação em Estatítica - StatLab é um espaço de inovação que integra <strong>pesquisa, ensino e extensão</strong>, promovendo o uso da Estatística para gerar impacto real na sociedade. Atuamos na fronteira entre teoria e prática, desenvolvendo soluções baseadas em dados para desafios contemporâneos.
 </p>
 
 ::: {.callout-important appearance="minimal"}
