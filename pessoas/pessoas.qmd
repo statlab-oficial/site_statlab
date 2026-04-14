@@ -7,7 +7,7 @@ callout-icon: false
 ## Pessoas
 
 <p id="para2">
-O StatLab reúne docentes, pesquisadores, bolsistas e agentes de extensão, ensino e pesquisa, que atuam de forma integrada em projetos de pesquisa, ensino e extensão, contribuindo para o desenvolvimento de soluções em Estatística e Ciência de Dados.
+O StatLab reúne docentes, pesquisadores, bolsistas e agentes que atuam de forma integrada em projetos de pesquisa, ensino e extensão, contribuindo para o desenvolvimento de soluções em Estatística e Ciência de Dados.
 </p>
 :::
 
