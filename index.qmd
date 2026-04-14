@@ -35,7 +35,7 @@ O StatLab é um espaço de inovação que integra <strong>pesquisa, ensino e ext
 Dados que geram decisões. Estatística que gera impacto.
 </p>
 
-<a href="./projects/" class="botao-statlab">Conheça nossos projetos</a>
+<a href="./projects/" class="botao-statlab">Conheça nossos projetos e ações</a>
 :::
 
 
