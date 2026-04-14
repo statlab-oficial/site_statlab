@@ -1,6 +1,5 @@
 ---
-title: "Projetos e Ações"
-subtitle: "Projetos e ações integradas de extensão, ensino e pesquisa do StatLab."
+title: ""
 callout-icon: false
 ---
 
@@ -8,7 +7,7 @@ callout-icon: false
 ## Projetos e Ações
 
 <p id="para2">
-O StatLab desenvolve projetos e ações que integram extensão, ensino e pesquisa, com foco na aplicação da Estatística e da Ciência de Dados para a solução de problemas reais. As iniciativas refletem o compromisso do laboratório com a geração de conhecimento, a formação qualificada e o impacto social.
+O StatLab desenvolve *projetos e ações que integram extensão, ensino e pesquisa*, com foco na aplicação da Estatística e da Ciência de Dados para a solução de problemas reais. As iniciativas refletem o compromisso do laboratório com a geração de conhecimento, a formação qualificada e o impacto social.
 </p>
 :::
 

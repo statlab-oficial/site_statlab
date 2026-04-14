@@ -1,5 +1,5 @@
 ---
-title: "Pessoas"
+title: ""
 callout-icon: false
 ---
 
@@ -109,26 +109,26 @@ Bolsista • Projeto
 
 <div class="g-col-3 membro-card">
 ![](images/fotopadrao.png){width=100%}
-**Nome do colaborador 1**  
+**Nome agente 1**  
 Colaborador
 </div>
 
 <div class="g-col-3 membro-card">
 ![](images/fotopadrao.png){width=100%}
-**Nome do colaborador 2**  
-Colaborador
+**Nome agente 2**  
+Agente
 </div>
 
 <div class="g-col-3 membro-card">
 ![](images/fotopadrao.png){width=100%}
-**Nome do colaborador 3**  
-Colaborador
+**Nome agente 3**  
+Agente
 </div>
 
 <div class="g-col-3 membro-card">
 ![](images/fotopadrao.png){width=100%}
-**Nome do colaborador 4**  
-Colaborador
+**Nome agente 4**  
+Agente
 </div>
 
 </div>
