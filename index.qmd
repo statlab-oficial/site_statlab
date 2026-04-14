@@ -40,16 +40,26 @@ O StatLab é um espaço de inovação que integra <strong>pesquisa, ensino e ext
 
 ------
 
-## 🔬 Linhas de Pesquisa {.test}
+## 🔬 Linhas de Atuação {.test}
 
 ::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+### 📣 Divulgação e Popularização da Ciência
+
+<p id="para1">
+O StatLab atua na aproximação entre a Estatística, a Ciência de Dados e a sociedade, traduzindo conceitos técnicos em uma linguagem acessível e significativa. Ações de extensão, eventos, materiais educativos e iniciativas de comunicação científica contribuem para fortalecer a cultura de dados e estimular o pensamento crítico. O objetivo é ampliar o alcance do conhecimento estatístico, tornando-o mais compreensível, relevante e presente no cotidiano.
+</p>
+
+:::
 
 ::: {.g-col-12 .g-col-md-4}
 
 ### 📊 Analytics
 
 <p id="para1">
-Nesta área, mergulhamos em grandes ou pequenos volumes de dados para extrair insights valiosos que orientam decisões estratégicas. Imagine transformar dados brutos em estratégias poderosas que podem revolucionar setores como negócios, saúde e políticas públicas. Projetos de Analytics no StatLab visam identificar padrões, tendências, correlações e fornecer análises precisas que ajudam organizações a operar de maneira mais eficaz e eficiente.
+A análise de dados é utilizada como base para a geração de conhecimento aplicado e suporte à tomada de decisão. A partir de diferentes volumes e fontes de dados, são identificados padrões, tendências e relações que ajudam a orientar estratégias em áreas como negócios, saúde e políticas públicas. O foco está em transformar dados brutos em informações úteis, com impacto prático e mensurável.
 </p>
 
 :::
@@ -59,9 +69,8 @@ Nesta área, mergulhamos em grandes ou pequenos volumes de dados para extrair in
 ### 🤖 Aprendizado Estatístico
 
 <p id="para1">
-Nesta área, combinamos a sofisticação dos métodos estatísticos com o aprendizado de máquina, desenvolvendo modelos preditivos que podem transformar a forma como entendemos e reagimos a fenômenos complexos, seja, por exemplo, aprimorando diagnósticos na área da saúde ou prevendo flutuações no mercado financeiro. O aprendizado estatístico no StatLab está na vanguarda da inovação tecnológica, criando soluções que se adaptam e evoluem com os dados.
+Métodos estatísticos e técnicas de aprendizado de máquina são combinados para construir modelos capazes de descrever e prever fenômenos complexos. As aplicações envolvem desde o apoio a diagnósticos na área da saúde até a análise de comportamentos em mercados e sistemas dinâmicos. O desenvolvimento desses modelos busca soluções que acompanham a evolução dos dados e das demandas reais.
 </p>
-
 
 :::
 
@@ -70,13 +79,12 @@ Nesta área, combinamos a sofisticação dos métodos estatísticos com o aprend
 ### 🎓 Edumetria
 
 <p id="para1">
-Na área de Edumetria, o StatLab combina a precisão da análise quantitativa com a sensibilidade da interpretação qualitativa para revolucionar a educação. Utilizando métodos avançados como Teoria Clássica de Testes, Teoria da Resposta ao Item, Modelagem Linear Hierárquica e Regressão Quantílica, transformamos dados educacionais em insights importantes para a tomada de decisão.
+A Edumetria integra métodos quantitativos e interpretação contextual para analisar dados educacionais e apoiar decisões mais informadas. São utilizados modelos como Teoria Clássica de Testes, Teoria da Resposta ao Item, Modelagem Linear Hierárquica e Regressão Quantílica. O objetivo é contribuir para a melhoria de processos educacionais com base em evidências.
 </p>
 
 :::
 
 :::
-
 
 
 ## 🤝 Parceiros {.test}

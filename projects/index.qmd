@@ -1,6 +1,6 @@
 ---
-title: "Projetos"
-subtitle: "Projetos de extensão e de pesquisa desenvolvidos ou em desenvolvimento pelo StatLab"
+title: "Projetos e Ações"
+subtitle: "Projetos e ações integradas de extensão, ensino e pesquisa do StatLab, organizados por eixo."
 callout-icon: false
 ---
 
@@ -71,19 +71,19 @@ document.addEventListener("DOMContentLoaded", function() {
 
 <div class="project-card">
 <div class="project-title">
-<span class="project-icon">📊</span>
-Laboratório de Inovação em Estatística (2 bolsistas remunerados, 15 bolsistas voluntários).
+<span class="project-icon">🤝</span>
+Laboratório de Inovação em Estatística (2 bolsistas, 15 agentes de extensão).
 </div>
 <div class="project-desc">
 O Laboratório de Inovação em Estatística - StatLab pretende ser um centro multidisciplinar que não só busca avançar o conhecimento teórico em Estatística e Ciência de Dados,
-mas também promover sua aplicação prática através de extensões comunitárias,consultoria e pesquisa. Este projeto reforça o papel da UFC como uma instituição na vanguarda da inovação na área de Estatística e Ciência de Dados, trazendo benefícios diretos para a sociedade em diversas formas.
+mas também promover sua aplicação prática através de extensões comunitárias, consultoria e pesquisa. Este projeto reforça o papel da UFC como uma instituição na vanguarda da inovação na área de Estatística e Ciência de Dados, trazendo benefícios diretos para a sociedade em diversas formas.
 </div>
 </div>
 
 <div class="project-card">
 <div class="project-title">
-<span class="project-icon">📊</span>
-Cultura de Dados e Extensão Universitária: integrando formação acadêmica e impacto social (2 bolsistas remunerados).
+<span class="project-icon">🌍</span>
+Cultura de Dados e Extensão Universitária: integrando formação acadêmica e impacto social (2 bolsistas, 15 agentes de extensão).
 </div>
 <div class="project-desc">
 Consolidar o StatLab como referência em Estatística e Ciência de Dados aplicado à extensão, unindo formação prática, divulgação científica e apoio a competições acadêmicas, com destaque para a Olimpíada Brasileira de Estatística.
@@ -91,7 +91,6 @@ Consolidar o StatLab como referência em Estatística e Ciência de Dados aplica
 </div>
 
 </div>
-
 
 # Ensino
 
@@ -163,7 +162,7 @@ A agenda 2030 das Nações Unidas define 17 Objetivos para o Desenvolvimento Sus
 
 <div class="project-card">
 <div class="project-title">
-<span class="project-icon">🐟</span>
+<span class="project-icon">🦞</span>
 Modelagem integrada na dinâmica populacional de Panulirus argus e Panulirus laevicauda no Brasil: subsídios para avaliação de estoques e definição de cotas de captura
 
 </div>
