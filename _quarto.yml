@@ -1,21 +1,18 @@
 project:
   type: website
   output-dir: docs
-  
 
 website:
   favicon: StatLab_oficial.png
   page-navigation: true
   title: "StatLab"
-  
-  
 
   page-footer:
     background: dark
-    left: "&copy; Copyright 2024, StatLab"
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    center: "Departamento de Estatística e Matemática Aplicada | Universidade Federal do Ceará | Campus do Pici | Centro de Ciências | Bloco 910 | CEP: 60440-900 | Fortaleza-CE | +55 85 3366-9836 | statlab@ufc.br "
-  
+    left: "&copy; StatLab"
+    center: "Departamento de Estatística e Matemática Aplicada | Universidade Federal do Ceará | Campus do Pici | Centro de Ciências | Bloco 910 | CEP: 60440-900 | Fortaleza-CE | +55 85 3366-9836 | statlab@ufc.br"
+    right: "Desenvolvido com ❤️ e [Quarto](https://quarto.org/)."
+
   navbar:
     logo: StatLab_oficial.png
     logo-alt: "StatLab"
@@ -23,19 +20,14 @@ website:
       - href: index.qmd
         text: Início
 
-      - href: equipe.qmd
-        text: Quem Somos
-        
-      - href: pessoas/pessoas.qmd
-        text: Equipe
-      
-      - href: projects/index.qmd
-        text: Projetos
+      - href: sobre/
+        text: Sobre
 
-     # - href: about.qmd
-     #   text: Sobre
-        
-      
+      - href: pessoas/
+        text: Pessoas
+
+      - href: projects/
+        text: Projetos e Ações
 
 format:
   html:
@@ -44,6 +36,3 @@ format:
     toc: false
     lang: pt
     page-layout: full
-
-
-

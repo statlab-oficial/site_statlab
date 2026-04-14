@@ -10,13 +10,13 @@ about:
   links:
     - icon: instagram
       text: Instagram
-      href: https://www.instagram.com/statlab_ufc/
+      href: https://www.instagram.com/statlab_oficial/
     - icon: linkedin
       text: LinkedIn
       href: "https://www.linkedin.com/in/laboratório-de-inovação-em-estatística-e-ciência-de-dados-statlab-ab653330b"
     - icon: github
       text: GitHub
-      href: https://github.com/statlabufc
+      href: https://github.com/statlab-oficial/
     - icon: envelope
       text: Email
       href: mailto:statlab@ufc.br
@@ -26,66 +26,71 @@ callout-icon: false
 
 ::: {#hero}
 
-<p class="lead" id="para1" >
-O StatLab é um espaço de inovação que integra <strong>pesquisa, ensino e extensão</strong>, promovendo o uso da Estatística para gerar impacto real na sociedade. Atuamos na fronteira entre teoria e prática, desenvolvendo soluções baseadas em dados para desafios contemporâneos.
+::: {.bloco-destaque}
+<p class="lead" id="para2">
+O StatLab é um espaço de inovação que integra <strong>pesquisa, ensino e extensão</strong>, promovendo o uso da Estatística e da Ciência de Dados para gerar impacto real na sociedade. Desenvolvemos soluções baseadas em dados para desafios contemporâneos.
 </p>
 
-::: {.callout-important appearance="minimal"}
-## 📢 Notícias
+<p style="margin-top:10px; font-weight:600; color:#022859;">
+Dados que geram decisões. Estatística que gera impacto.
+</p>
 
-- **(20.03.2026)** StatLab é parceiro da Olimpíada Brasileira de Estatística (OBE) e reforça o incentivo na divulgação da Estatística nas escolas de Ensino Médio.
+<a href="./projects/" class="botao-statlab">Conheça nossos projetos</a>
+:::
+
+
+::: {.aviso-destaque}
+**📢 Notícias**  
+**(20.03.2026)** StatLab é parceiro da Olimpíada Brasileira de Estatística (OBE) e reforça o incentivo à divulgação da Estatística nas escolas de Ensino Médio.
 :::
 
 :::
-
-------
 
 ## 🔬 Linhas de Atuação {.test}
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4}
-
+::: {.bloco-claro}
 ### 📣 Divulgação e Popularização da Ciência
 
 <p id="para1">
-O StatLab atua na aproximação entre a Estatística, a Ciência de Dados e a sociedade, traduzindo conceitos técnicos em uma linguagem acessível e significativa. Ações de extensão, eventos, materiais educativos e iniciativas de comunicação científica contribuem para fortalecer a cultura de dados e estimular o pensamento crítico. O objetivo é ampliar o alcance do conhecimento estatístico, tornando-o mais compreensível, relevante e presente no cotidiano.
+O StatLab atua na aproximação entre a Estatística, a Ciência de Dados e a sociedade, traduzindo conceitos técnicos em linguagem acessível e significativa. Ações de extensão, eventos, materiais educativos e iniciativas de comunicação científica contribuem para fortalecer a cultura de dados e estimular o pensamento crítico. O objetivo é ampliar o alcance do conhecimento estatístico, tornando-o mais compreensível, relevante e presente no cotidiano.
 </p>
-
+:::
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-
-### 📊 Analytics
+::: {.bloco-claro}
+### 💻 Analytics
 
 <p id="para1">
-A análise de dados é utilizada como base para a geração de conhecimento aplicado e suporte à tomada de decisão. A partir de diferentes volumes e fontes de dados, são identificados padrões, tendências e relações que ajudam a orientar estratégias em áreas como negócios, saúde e políticas públicas. O foco está em transformar dados brutos em informações úteis, com impacto prático e mensurável.
+A análise de dados é utilizada para gerar conhecimento aplicado e apoiar a tomada de decisão. A partir de diferentes volumes e fontes de dados, são identificados padrões, tendências e relações que ajudam a orientar estratégias em áreas como negócios, saúde e políticas públicas. O foco está em transformar dados brutos em informações úteis, com impacto prático e mensurável.
 </p>
-
+:::
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-
+::: {.bloco-claro}
 ### 🤖 Aprendizado Estatístico
 
 <p id="para1">
-Métodos estatísticos e técnicas de aprendizado de máquina são combinados para construir modelos capazes de descrever e prever fenômenos complexos. As aplicações envolvem desde o apoio a diagnósticos na área da saúde até a análise de comportamentos em mercados e sistemas dinâmicos. O desenvolvimento desses modelos busca soluções que acompanham a evolução dos dados e das demandas reais.
+Métodos estatísticos e técnicas de aprendizado de máquina são combinados para construir modelos capazes de descrever e prever fenômenos complexos. As aplicações envolvem desde o apoio a diagnósticos na área da saúde até a análise de comportamentos em mercados e sistemas dinâmicos. O desenvolvimento desses modelos busca soluções consistentes, interpretáveis e alinhadas às demandas reais.
 </p>
-
+:::
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-
-### 🎓 Edumetria
+::: {.bloco-claro}
+### 📈 Análise de Dados para Impacto Social
 
 <p id="para1">
-A Edumetria integra métodos quantitativos e interpretação contextual para analisar dados educacionais e apoiar decisões mais informadas. São utilizados modelos como Teoria Clássica de Testes, Teoria da Resposta ao Item, Modelagem Linear Hierárquica e Regressão Quantílica. O objetivo é contribuir para a melhoria de processos educacionais com base em evidências.
+A análise de dados é aplicada ao desenvolvimento de soluções com impacto social, apoiando decisões em áreas como saúde, educação, segurança e gestão pública. Também são contempladas iniciativas de inovação no setor privado, com foco na geração de evidências que contribuam para ações mais eficientes e orientadas por resultados.
 </p>
-
+:::
 :::
 
 :::
-
 
 ## 🤝 Parceiros {.test}
 
@@ -99,8 +104,7 @@ A Edumetria integra métodos quantitativos e interpretação contextual para ana
 
 :::
 
-
-## 🏛️ Apoio{.test}
+## 🏛️ Apoio {.test}
 
 ::: {.grid}
 
@@ -109,7 +113,6 @@ A Edumetria integra métodos quantitativos e interpretação contextual para ana
 ![](DEMA.jpg)
 </a>
 :::
-
 
 ::: {.g-col-6 .g-col-md-4}
 <a href="https://www.ufc.br" target="_blank" class="apoio-card">
@@ -140,6 +143,5 @@ A Edumetria integra métodos quantitativos e interpretação contextual para ana
 ![](prpg.png)
 </a>
 :::
-
 
 :::

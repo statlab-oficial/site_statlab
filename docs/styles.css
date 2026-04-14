@@ -1,18 +1,75 @@
-/* css styles */
+/* =========================
+   CSS STYLES — STATLAB
+   ========================= */
+
+
+/* =========================
+   1. PALETA BASE
+   ========================= */
+
+:root {
+  --statlab-blue: #022859;
+  --statlab-orange: #F66B0E;
+
+  --text-primary: #1F2937;
+  --text-secondary: #6B7280;
+  --text-muted: #8A8490;
+
+  --bg-white: #FFFFFF;
+  --bg-light: #F7F9FB;
+  --bg-soft-blue: #EFF6FF;
+  --bg-soft-orange: #FFF7ED;
+  --bg-soft-yellow: #FFFBEB;
+  --bg-soft-green: #ECFDF5;
+
+  --border-light: #E5E7EB;
+  --border-blue: #2563EB;
+  --border-orange: #F66B0E;
+  --border-yellow: #F59E0B;
+  --border-green: #16A34A;
+
+  --shadow-soft: 0 4px 12px rgba(0, 0, 0, 0.06);
+  --shadow-hover: 0 8px 22px rgba(0, 0, 0, 0.10);
+
+  --radius-sm: 12px;
+  --radius-md: 16px;
+  --radius-lg: 18px;
+
+  --transition-default: all 0.3s ease;
+}
+
+
+/* =========================
+   2. TEXTOS
+   ========================= */
 
 #para1 {
-  color: #918c94;
+  color: var(--text-muted);
   text-align: justify;
+  line-height: 1.7;
 }
 
 #para2 {
-  color: black;
+  color: var(--text-primary);
   text-align: justify;
+  line-height: 1.7;
 }
 
 .test h2 {
   text-align: center;
+  color: var(--statlab-blue);
 }
+
+.frase-institucional {
+  margin-top: 10px;
+  font-weight: 600;
+  color: var(--statlab-blue);
+}
+
+
+/* =========================
+   3. GRID E LAYOUT
+   ========================= */
 
 .grid {
   display: flex;
@@ -30,6 +87,112 @@
 }
 
 
+/* =========================
+   4. BLOCOS INSTITUCIONAIS
+   ========================= */
+
+.bloco-claro {
+  background: var(--bg-light);
+  border-radius: var(--radius-lg);
+  padding: 24px;
+}
+
+.bloco-destaque {
+  background: linear-gradient(180deg, #F7F9FB 0%, #FFFFFF 100%);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-lg);
+  padding: 24px;
+  box-shadow: var(--shadow-soft);
+}
+
+
+/* =========================
+   5. AVISOS E DESTAQUES
+   ========================= */
+
+.aviso-info,
+.aviso-alerta,
+.aviso-sucesso,
+.aviso-destaque {
+  padding: 16px 18px;
+  margin: 18px 0;
+  border-radius: var(--radius-md);
+  border-left: 5px solid;
+  line-height: 1.65;
+  box-shadow: var(--shadow-soft);
+}
+
+.aviso-info {
+  background: var(--bg-soft-blue);
+  border-left-color: var(--border-blue);
+  color: #1E3A8A;
+}
+
+.aviso-alerta {
+  background: var(--bg-soft-yellow);
+  border-left-color: var(--border-yellow);
+  color: #92400E;
+}
+
+.aviso-sucesso {
+  background: var(--bg-soft-green);
+  border-left-color: var(--border-green);
+  color: #166534;
+}
+
+.aviso-destaque {
+  background: var(--bg-soft-orange);
+  border-left-color: var(--border-orange);
+  color: #9A3412;
+}
+
+.aviso-info strong,
+.aviso-alerta strong,
+.aviso-sucesso strong,
+.aviso-destaque strong {
+  display: inline-block;
+  margin-bottom: 4px;
+  font-weight: 700;
+}
+
+
+/* =========================
+   6. LINKS E BOTÕES
+   ========================= */
+
+.link-statlab {
+  color: var(--statlab-blue);
+  text-decoration: none;
+  font-weight: 600;
+  transition: var(--transition-default);
+}
+
+.link-statlab:hover {
+  color: var(--statlab-orange);
+}
+
+.botao-statlab {
+  display: inline-block;
+  padding: 10px 18px;
+  background: var(--statlab-orange);
+  color: var(--bg-white);
+  border-radius: var(--radius-sm);
+  text-decoration: none;
+  font-weight: 600;
+  transition: var(--transition-default);
+}
+
+.botao-statlab:hover {
+  background: #E85D04;
+  color: var(--bg-white);
+  transform: translateY(-2px);
+}
+
+
+/* =========================
+   7. ITENS E CARDS DE APOIO
+   ========================= */
+
 .apoio-item {
   text-align: center;
   padding: 20px;
@@ -41,15 +204,14 @@
   object-fit: contain;
   filter: grayscale(100%);
   opacity: 0.8;
-  transition: all 0.3s ease;
+  transition: var(--transition-default);
 }
 
 .apoio-item img:hover {
   filter: grayscale(0%);
   opacity: 1;
-  transform: scale(1.05);
+  transform: scale(1.04);
 }
-
 
 .apoio-card {
   display: flex;
@@ -57,10 +219,11 @@
   justify-content: center;
   height: 140px;
   padding: 20px;
-  border-radius: 16px;
-  background: #ffffff;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
-  transition: all 0.3s ease;
+  border-radius: var(--radius-md);
+  background: var(--bg-white);
+  border: 1px solid var(--border-light);
+  box-shadow: var(--shadow-soft);
+  transition: var(--transition-default);
   text-decoration: none;
 }
 
@@ -70,12 +233,13 @@
   object-fit: contain;
   filter: grayscale(100%);
   opacity: 0.75;
-  transition: all 0.3s ease;
+  transition: var(--transition-default);
 }
 
 .apoio-card:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-hover);
+  border-color: rgba(2, 40, 89, 0.12);
 }
 
 .apoio-card:hover img {
@@ -83,3 +247,259 @@
   opacity: 1;
 }
 
+
+/* =========================
+   8. CARDS DE PESSOAS
+   ========================= */
+
+.membro-card {
+  background: var(--bg-white);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-md);
+  padding: 24px 20px;
+  box-shadow: var(--shadow-soft);
+  transition: var(--transition-default);
+  text-align: center;
+  height: 100%;
+}
+
+.membro-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-hover);
+}
+
+.membro-card img {
+  width: 100%;
+  max-width: 140px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 12px;
+}
+
+.membro-card strong {
+  display: block;
+  color: var(--statlab-blue);
+  margin-bottom: 6px;
+}
+
+.membro-card p,
+.membro-card span {
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+
+
+/* =========================
+   9. PROJETOS E AÇÕES
+   ========================= */
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+}
+
+.project-card {
+  background: var(--bg-white);
+  border-radius: var(--radius-md);
+  padding: 18px 20px;
+  box-shadow: var(--shadow-soft);
+  transition: var(--transition-default);
+  border-left: 5px solid var(--statlab-orange);
+  cursor: pointer;
+}
+
+.project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-hover);
+}
+
+.project-title {
+  font-weight: 600;
+  font-size: 1.05em;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.project-icon {
+  font-size: 1.2em;
+}
+
+.project-desc {
+  margin-top: 10px;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.35s ease;
+}
+
+.project-card.active .project-desc {
+  max-height: 800px;
+}
+
+.project-extensao {
+  border-left-color: var(--statlab-orange);
+}
+
+.project-ensino {
+  border-left-color: var(--border-blue);
+}
+
+.project-pesquisa {
+  border-left-color: var(--border-green);
+}
+
+
+/* =========================
+   10. GRUPOS DE PESQUISA
+   ========================= */
+
+.group-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+}
+
+.group-card {
+  padding: 16px 18px;
+  border-radius: var(--radius-sm);
+  background: var(--bg-white);
+  box-shadow: var(--shadow-soft);
+  transition: var(--transition-default);
+  border-left: 5px solid var(--statlab-blue);
+}
+
+.group-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-hover);
+}
+
+.group-title {
+  font-weight: 600;
+  font-size: 1.05em;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.group-link {
+  margin-top: 6px;
+  font-size: 0.95em;
+}
+
+.group-link a {
+  text-decoration: none;
+  color: var(--statlab-blue);
+}
+
+.group-link a:hover {
+  color: var(--statlab-orange);
+}
+
+
+/* =========================
+   11. PUBLICAÇÕES
+   ========================= */
+
+.highlight-section {
+  margin-bottom: 25px;
+}
+
+.highlight-title {
+  font-size: 1.2em;
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: var(--statlab-blue);
+}
+
+.highlight-card,
+.pub-card {
+  padding: 14px 16px;
+  border-radius: var(--radius-sm);
+  background: var(--bg-white);
+  margin-bottom: 10px;
+  box-shadow: var(--shadow-soft);
+}
+
+.highlight-card {
+  border-left: 5px solid var(--statlab-orange);
+}
+
+.badge {
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 0.75em;
+  font-weight: 600;
+  margin-right: 5px;
+}
+
+.A1 { background: #1e7e34; color: white; }
+.A2 { background: #2c7be5; color: white; }
+.A3 { background: #17a2b8; color: white; }
+.A4 { background: #6f42c1; color: white; }
+.B1 { background: #fd7e14; color: white; }
+.B2 { background: #ffc107; color: black; }
+.B3 { background: #6c757d; color: white; }
+.C  { background: #343a40; color: white; }
+
+.search-box {
+  width: 100%;
+  padding: 10px 12px;
+  margin: 10px 0 14px 0;
+  border-radius: 8px;
+  border: 1px solid var(--border-light);
+}
+
+
+/* =========================
+   12. RESPONSIVIDADE
+   ========================= */
+
+@media (max-width: 992px) {
+  .g-col-3 {
+    flex: 0 0 47%;
+  }
+}
+
+@media (max-width: 576px) {
+  .grid {
+    gap: 16px;
+  }
+
+  .g-col-3 {
+    flex: 0 0 100%;
+  }
+
+  .apoio-card {
+    height: 120px;
+    padding: 16px;
+  }
+
+  .apoio-card img {
+    max-width: 120px;
+    max-height: 60px;
+  }
+
+  .apoio-item img {
+    max-width: 150px;
+    max-height: 80px;
+  }
+
+  .aviso-info,
+  .aviso-alerta,
+  .aviso-sucesso,
+  .aviso-destaque,
+  .bloco-claro,
+  .bloco-destaque,
+  .membro-card,
+  .project-card,
+  .group-card,
+  .highlight-card,
+  .pub-card {
+    padding: 16px;
+  }
+}
