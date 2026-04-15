@@ -18,55 +18,55 @@ O StatLab reúne docentes, pesquisadores, bolsistas e agentes que atuam de forma
 <div class="grid">
 
 <div class="g-col-3 membro-card">
-![](images/fotopadrao.png){width=100%}
+![](images/Alessandra_PB.png){width=100%}
 **Alessandra Cristina da Silva Farias**  
 Docente • Área de atuação
 </div>
 
 <div class="g-col-3 membro-card">
-![](images/fotopadrao.png){width=100%}
+![](images/Ailton_PB.png){width=100%}
 **Jose Ailton Alencar Andrade**  
 Docente • Área de atuação
 </div>
 
 <div class="g-col-3 membro-card">
-![](images/fotopadrao.png){width=100%}
+![](images/Roberto_PB.png){width=100%}
 **Jose Roberto Silva dos Santos**  
 Docente • Área de atuação
 </div>
 
 <div class="g-col-3 membro-card">
-![](images/fotopadrao.png){width=100%}
+![](images/Juvencio_PB.png){width=100%}
 **Juvencio Santos Nobre**  
 Docente • Área de atuação
 </div>
 
 <div class="g-col-3 membro-card">
-![](images/fotopadrao.png){width=100%}
+![](images/Gustavo_PB.png){width=100%}
 **Luis Gustavo Bastos Pinho**  
 Docente • Área de atuação
 </div>
 
 <div class="g-col-3 membro-card">
-![](images/fotopadrao.png){width=100%}
+![](images/Manoel_PB.png){width=100%}
 **Manoel F. dos Santos Neto**  
 Docente • Área de atuação
 </div>
 
 <div class="g-col-3 membro-card">
-![](images/fotopadrao.png){width=100%}
+![](images/Jacqueline_PB.png){width=100%}
 **Maria Jacqueline Batista**  
 Docente • Área de atuação
 </div>
 
 <div class="g-col-3 membro-card">
-![](images/fotopadrao.png){width=100%}
+![](images/Rafael_PB.png){width=100%}
 **Rafael Braz Azevedo Farias**  
 Docente • Área de atuação
 </div>
 
 <div class="g-col-3 membro-card">
-![](images/fotopadrao.png){width=100%}
+![](images/Ronald_PB.png){width=100%}
 **Ronald Targino Nojosa**  
 Docente • Área de atuação
 </div>
