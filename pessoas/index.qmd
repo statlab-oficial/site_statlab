@@ -32,13 +32,13 @@ Aprendizado Estatístico • Métodos Bayesianos e processos estocásticos
 <div class="g-col-3 membro-card">
 ![](images/Roberto_PB.png){width=100%}
 **Jose Roberto Silva dos Santos**  
-Aprendizado Estatístico • Modelos bayesianos e e avaliação educacional
+Aprendizado Estatístico • Modelos bayesianos e avaliação educacional
 </div>
 
 <div class="g-col-3 membro-card">
 ![](images/Juvencio_PB.png){width=100%}
 **Juvencio Santos Nobre**  
-Analytics • Modelos de regressão e e avaliação educacional
+Analytics • Modelos de regressão e aprendizado estatístico
 </div>
 
 <div class="g-col-3 membro-card">
