@@ -20,7 +20,7 @@ O StatLab reúne docentes, pesquisadores, bolsistas e agentes de extensão, ensi
 <div class="g-col-3 membro-card">
 ![](images/Alessandra_PB.png){width=100%}
 **Alessandra Cristina da Silva Farias**  
-Impacto Social • Estatística pesqueira e avaliação de estoques
+Impacto Social • Estatística pesqueira e ensino da estatística
 </div>
 
 <div class="g-col-3 membro-card">
@@ -32,7 +32,7 @@ Analytics • Métodos Bayesianos e processos estocásticos
 <div class="g-col-3 membro-card">
 ![](images/Roberto_PB.png){width=100%}
 **Jose Roberto Silva dos Santos**  
-Aprendizado Estatístico • Modelos bayesianos e avaliação educacional
+Analytics • Modelos bayesianos e avaliação educacional
 </div>
 
 <div class="g-col-3 membro-card">

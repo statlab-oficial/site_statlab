@@ -290,7 +290,6 @@
   line-height: 1.5;
 }
 
-
 /* =========================
    9. PROJETOS E AÇÕES
    ========================= */
@@ -341,6 +340,19 @@
   max-height: 800px;
 }
 
+.project-link {
+  margin-top: 12px;
+}
+
+.project-link a {
+  display: inline-block;
+  font-size: 0.95em;
+}
+
+.project-link a:hover {
+  text-decoration: underline;
+}
+
 .project-extensao {
   border-left-color: var(--statlab-orange);
 }
@@ -352,7 +364,6 @@
 .project-pesquisa {
   border-left-color: var(--border-green);
 }
-
 
 /* =========================
    10. GRUPOS DE PESQUISA
