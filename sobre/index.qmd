@@ -3,6 +3,8 @@ title: ""
 callout-icon: false
 ---
 
+
+
 ::: {.bloco-destaque}
 ## Quem somos
 
@@ -22,6 +24,10 @@ O laboratório está vinculado ao Departamento de Estatística e Matemática Apl
 - Produção científica reconhecida e participação em congressos nacionais e internacionais.
 :::
 
+<p style="line-height: .1;">
+<br>
+</p>
+
 ::: {.bloco-claro}
 ## Missão
 
@@ -29,6 +35,10 @@ O laboratório está vinculado ao Departamento de Estatística e Matemática Apl
 Integrar ensino, pesquisa e extensão para desenvolver soluções baseadas em Estatística e Ciência de Dados, contribuindo para a inovação, a formação qualificada e a geração de impacto na sociedade, em colaboração com instituições públicas e privadas.
 </p>
 :::
+
+<p style="line-height: .1;">
+<br>
+</p>
 
 ::: {.bloco-claro}
 ## Objetivos
@@ -48,3 +58,4 @@ Consolidar o StatLab como um laboratório de referência em Estatística e Ciên
 - Produzir relatórios técnicos e artigos científicos com aplicações relevantes;
 - Realizar ações de divulgação científica.
 :::
+

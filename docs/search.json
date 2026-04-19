@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "sobre/index.html",
-    "href": "sobre/index.html",
-    "title": "StatLab",
-    "section": "",
-    "text": "O StatLab é um laboratório que reúne pesquisadores experientes e jovens em formação, com atuação integrada em ensino, pesquisa e extensão. Seu propósito é evidenciar o potencial da Estatística e da Ciência de Dados na geração de conhecimento, inovação e impacto técnico e social.\n\n\nO laboratório está vinculado ao Departamento de Estatística e Matemática Aplicada (DEMA) da Universidade Federal do Ceará (UFC) e mantém colaboração com diferentes áreas e instituições. Entre suas atividades, destacam-se:\n\n\nAtuação de docentes dos Departamentos de Estatística e Matemática Aplicada da UFC;\nParticipação em programas de pós-graduação, como Modelagem e Métodos Quantitativos (CC-UFC) e Estatística do IMECC-UNICAMP;\nAtuação editorial e científica, incluindo participação em periódicos internacionais, como o Brazilian Journal of Probability and Statistics;\nParticipação em programas estratégicos, como o Cientista-Chefe da Educação da FUNCAP;\nColaboração com processos de avaliação educacional no âmbito do INEP/MEC;\nProdução científica reconhecida e participação em congressos nacionais e internacionais."
-  },
-  {
-    "objectID": "sobre/index.html#quem-somos",
-    "href": "sobre/index.html#quem-somos",
-    "title": "StatLab",
-    "section": "",
-    "text": "O StatLab é um laboratório que reúne pesquisadores experientes e jovens em formação, com atuação integrada em ensino, pesquisa e extensão. Seu propósito é evidenciar o potencial da Estatística e da Ciência de Dados na geração de conhecimento, inovação e impacto técnico e social.\n\n\nO laboratório está vinculado ao Departamento de Estatística e Matemática Aplicada (DEMA) da Universidade Federal do Ceará (UFC) e mantém colaboração com diferentes áreas e instituições. Entre suas atividades, destacam-se:\n\n\nAtuação de docentes dos Departamentos de Estatística e Matemática Aplicada da UFC;\nParticipação em programas de pós-graduação, como Modelagem e Métodos Quantitativos (CC-UFC) e Estatística do IMECC-UNICAMP;\nAtuação editorial e científica, incluindo participação em periódicos internacionais, como o Brazilian Journal of Probability and Statistics;\nParticipação em programas estratégicos, como o Cientista-Chefe da Educação da FUNCAP;\nColaboração com processos de avaliação educacional no âmbito do INEP/MEC;\nProdução científica reconhecida e participação em congressos nacionais e internacionais."
-  },
-  {
-    "objectID": "sobre/index.html#missão",
-    "href": "sobre/index.html#missão",
-    "title": "StatLab",
-    "section": "Missão",
-    "text": "Missão\n\nIntegrar ensino, pesquisa e extensão para desenvolver soluções baseadas em Estatística e Ciência de Dados, contribuindo para a inovação, a formação qualificada e a geração de impacto na sociedade, em colaboração com instituições públicas e privadas."
-  },
-  {
-    "objectID": "sobre/index.html#objetivos",
-    "href": "sobre/index.html#objetivos",
-    "title": "StatLab",
-    "section": "Objetivos",
-    "text": "Objetivos\nGeral\n\nConsolidar o StatLab como um laboratório de referência em Estatística e Ciência de Dados, promovendo a integração entre pesquisa, ensino e extensão e utilizando o conhecimento científico para gerar impacto na sociedade.\n\nEspecíficos\n\nDesenvolver soluções e prestar apoio técnico a organizações do setor público e privado;\nPromover educação continuada em Estatística e Ciência de Dados;\nDesenvolver projetos de extensão voltados à solução de problemas reais;\nEstimular a colaboração entre universidade, governo e setor produtivo;\nProduzir relatórios técnicos e artigos científicos com aplicações relevantes;\nRealizar ações de divulgação científica."
-  },
-  {
     "objectID": "pessoas/index.html",
     "href": "pessoas/index.html",
     "title": "StatLab",
@@ -40,41 +12,6 @@
     "title": "StatLab",
     "section": "",
     "text": "O StatLab reúne docentes, pesquisadores, bolsistas e agentes de extensão, ensino e pesquisa, que atuam de forma integrada em projetos de pesquisa, ensino e extensão, contribuindo para o desenvolvimento de soluções em Estatística e Ciência de Dados."
-  },
-  {
-    "objectID": "equipe.html",
-    "href": "equipe.html",
-    "title": "Sobre o StatLab",
-    "section": "",
-    "text": "O StatLab é um laboratório que reúne pesquisadores experientes e jovens em formação, com atuação integrada em ensino, pesquisa e extensão. Seu propósito é evidenciar o potencial da Estatística e da Ciência de Dados na geração de conhecimento, inovação e impacto técnico e social.\n\n\nO laboratório está vinculado ao Departamento de Estatística e Matemática Aplicada (DEMA) da Universidade Federal do Ceará (UFC) e mantém colaboração com diferentes áreas e instituições. Entre suas atividades, destacam-se:\n\n\nAtuação de docentes dos Departamentos de Estatística e Matemática Aplicada e de Engenharia de Pesca da UFC;\nParticipação em programas de pós-graduação, como Modelagem e Métodos Quantitativos (CC-UFC) e Estatística do IMECC-UNICAMP;\nAtuação editorial e científica, incluindo participação em periódicos internacionais, como o Brazilian Journal of Probability and Statistics;\nParticipação em programas estratégicos, como o Cientista-Chefe da Educação da FUNCAP;\nColaboração com processos de avaliação educacional no âmbito do INEP/MEC;\nProdução científica reconhecida e participação em congressos nacionais e internacionais."
-  },
-  {
-    "objectID": "equipe.html#quem-somos",
-    "href": "equipe.html#quem-somos",
-    "title": "Sobre o StatLab",
-    "section": "",
-    "text": "O StatLab é um laboratório que reúne pesquisadores experientes e jovens em formação, com atuação integrada em ensino, pesquisa e extensão. Seu propósito é evidenciar o potencial da Estatística e da Ciência de Dados na geração de conhecimento, inovação e impacto técnico e social.\n\n\nO laboratório está vinculado ao Departamento de Estatística e Matemática Aplicada (DEMA) da Universidade Federal do Ceará (UFC) e mantém colaboração com diferentes áreas e instituições. Entre suas atividades, destacam-se:\n\n\nAtuação de docentes dos Departamentos de Estatística e Matemática Aplicada e de Engenharia de Pesca da UFC;\nParticipação em programas de pós-graduação, como Modelagem e Métodos Quantitativos (CC-UFC) e Estatística do IMECC-UNICAMP;\nAtuação editorial e científica, incluindo participação em periódicos internacionais, como o Brazilian Journal of Probability and Statistics;\nParticipação em programas estratégicos, como o Cientista-Chefe da Educação da FUNCAP;\nColaboração com processos de avaliação educacional no âmbito do INEP/MEC;\nProdução científica reconhecida e participação em congressos nacionais e internacionais."
-  },
-  {
-    "objectID": "equipe.html#missão",
-    "href": "equipe.html#missão",
-    "title": "Sobre o StatLab",
-    "section": "Missão",
-    "text": "Missão\n\nIntegrar ensino, pesquisa e extensão para desenvolver soluções baseadas em Estatística e Ciência de Dados, contribuindo para a inovação, a formação qualificada e a geração de impacto na sociedade, em colaboração com instituições públicas e privadas."
-  },
-  {
-    "objectID": "equipe.html#objetivos",
-    "href": "equipe.html#objetivos",
-    "title": "Sobre o StatLab",
-    "section": "Objetivos",
-    "text": "Objetivos\nGeral\n\nConsolidar o StatLab como um laboratório de referência em Estatística e Ciência de Dados, promovendo a integração entre pesquisa, ensino e extensão e utilizando o conhecimento científico para gerar impacto na sociedade.\n\nEspecíficos\n\nDesenvolver soluções e prestar apoio técnico a organizações do setor público e privado;\nPromover educação continuada em Estatística e Ciência de Dados;\nDesenvolver projetos de extensão voltados à solução de problemas reais;\nEstimular a colaboração entre universidade, governo e setor produtivo;\nProduzir relatórios técnicos e artigos científicos com aplicações relevantes;\nRealizar ações de divulgação científica."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "StatLab",
-    "section": "",
-    "text": "DicaMissão\n\n\n\n\nO Laboratório de Inovação em Estatística e Ciência de Dados (StatLab) do Departamento de Estatística e Matemática Aplicada (DEMA) da Universidade Federal do Ceará (UFC) propõe unir práticas de ensino, pesquisa e extensão para desenvolver soluções inovadoras com base na Estatística e Ciência de Dados, atuando principalmente em ações de extensão na pesquisa, desenvolvimento de produtos e inovação, com objetivo de atender demandas específicas do setor público e privado. Este laboratório visa estabelecer um Hub de excelência que promova a extensão por meio do ensino e pesquisa aplicada, assim como a colaboração interinstitucional e a transferência de conhecimento para a comunidade através de suas ações.\n\n\n\n\n\n\n\n\n\nDicaObjetivos\n\n\n\nGeral:\n\nConsolidar o StatLab como um laboratório de referência em Estatística e Ciência de Dados que promova a integração eficaz de pesquisa, ensino e extensão, e que utilize o conhecimento científico para gerar impacto tangível na comunidade e no mercado.\n\nEspecíficos:\n\n\nRealizar consultorias para organizações e entidades do setor público e privado.\n\n\nAuxiliar na promoção da educação continuada em Estatística e Ciência de Dados através de atividades presenciais e via plataformas de aprendizado online, maximizando o alcance e a inclusão.\n\n\nDesenvolver projetos de extensão que apliquem técnicas de Estatística e Ciência de Dados na solução de problemas reais da sociedade. Fomentar a colaboração entre a universidade e diversos setores da economia para promover a inovação.\n\n\nProdução de relatório e artigos científicos com metodologias úteis para a sociedade.\n\n\nRealizar ações de divulgação da área de Estatística e Ciência de Dados."
   },
   {
     "objectID": "index.html",
@@ -103,6 +40,62 @@
     "title": "Laboratório de Inovação em Estatística",
     "section": "🏛️ Apoio",
     "text": "🏛️ Apoio"
+  },
+  {
+    "objectID": "sobre/index.html",
+    "href": "sobre/index.html",
+    "title": "StatLab",
+    "section": "",
+    "text": "O StatLab é um laboratório que reúne pesquisadores experientes e jovens em formação, com atuação integrada em ensino, pesquisa e extensão. Seu propósito é evidenciar o potencial da Estatística e da Ciência de Dados na geração de conhecimento, inovação e impacto técnico e social.\n\n\nO laboratório está vinculado ao Departamento de Estatística e Matemática Aplicada (DEMA) da Universidade Federal do Ceará (UFC) e mantém colaboração com diferentes áreas e instituições. Entre suas atividades, destacam-se:\n\n\nAtuação de docentes dos Departamentos de Estatística e Matemática Aplicada da UFC;\nParticipação em programas de pós-graduação, como Modelagem e Métodos Quantitativos (CC-UFC) e Estatística do IMECC-UNICAMP;\nAtuação editorial e científica, incluindo participação em periódicos internacionais, como o Brazilian Journal of Probability and Statistics;\nParticipação em programas estratégicos, como o Cientista-Chefe da Educação da FUNCAP;\nColaboração com processos de avaliação educacional no âmbito do INEP/MEC;\nProdução científica reconhecida e participação em congressos nacionais e internacionais."
+  },
+  {
+    "objectID": "sobre/index.html#quem-somos",
+    "href": "sobre/index.html#quem-somos",
+    "title": "StatLab",
+    "section": "",
+    "text": "O StatLab é um laboratório que reúne pesquisadores experientes e jovens em formação, com atuação integrada em ensino, pesquisa e extensão. Seu propósito é evidenciar o potencial da Estatística e da Ciência de Dados na geração de conhecimento, inovação e impacto técnico e social.\n\n\nO laboratório está vinculado ao Departamento de Estatística e Matemática Aplicada (DEMA) da Universidade Federal do Ceará (UFC) e mantém colaboração com diferentes áreas e instituições. Entre suas atividades, destacam-se:\n\n\nAtuação de docentes dos Departamentos de Estatística e Matemática Aplicada da UFC;\nParticipação em programas de pós-graduação, como Modelagem e Métodos Quantitativos (CC-UFC) e Estatística do IMECC-UNICAMP;\nAtuação editorial e científica, incluindo participação em periódicos internacionais, como o Brazilian Journal of Probability and Statistics;\nParticipação em programas estratégicos, como o Cientista-Chefe da Educação da FUNCAP;\nColaboração com processos de avaliação educacional no âmbito do INEP/MEC;\nProdução científica reconhecida e participação em congressos nacionais e internacionais."
+  },
+  {
+    "objectID": "sobre/index.html#missão",
+    "href": "sobre/index.html#missão",
+    "title": "StatLab",
+    "section": "Missão",
+    "text": "Missão\n\nIntegrar ensino, pesquisa e extensão para desenvolver soluções baseadas em Estatística e Ciência de Dados, contribuindo para a inovação, a formação qualificada e a geração de impacto na sociedade, em colaboração com instituições públicas e privadas."
+  },
+  {
+    "objectID": "sobre/index.html#objetivos",
+    "href": "sobre/index.html#objetivos",
+    "title": "StatLab",
+    "section": "Objetivos",
+    "text": "Objetivos\nGeral\n\nConsolidar o StatLab como um laboratório de referência em Estatística e Ciência de Dados, promovendo a integração entre pesquisa, ensino e extensão e utilizando o conhecimento científico para gerar impacto na sociedade.\n\nEspecíficos\n\nDesenvolver soluções e prestar apoio técnico a organizações do setor público e privado;\nPromover educação continuada em Estatística e Ciência de Dados;\nDesenvolver projetos de extensão voltados à solução de problemas reais;\nEstimular a colaboração entre universidade, governo e setor produtivo;\nProduzir relatórios técnicos e artigos científicos com aplicações relevantes;\nRealizar ações de divulgação científica."
+  },
+  {
+    "objectID": "equipe.html",
+    "href": "equipe.html",
+    "title": "Sobre o StatLab",
+    "section": "",
+    "text": "O StatLab é um laboratório que reúne pesquisadores experientes e jovens em formação, com atuação integrada em ensino, pesquisa e extensão. Seu propósito é evidenciar o potencial da Estatística e da Ciência de Dados na geração de conhecimento, inovação e impacto técnico e social.\n\n\nO laboratório está vinculado ao Departamento de Estatística e Matemática Aplicada (DEMA) da Universidade Federal do Ceará (UFC) e mantém colaboração com diferentes áreas e instituições. Entre suas atividades, destacam-se:\n\n\nAtuação de docentes dos Departamentos de Estatística e Matemática Aplicada e de Engenharia de Pesca da UFC;\nParticipação em programas de pós-graduação, como Modelagem e Métodos Quantitativos (CC-UFC) e Estatística do IMECC-UNICAMP;\nAtuação editorial e científica, incluindo participação em periódicos internacionais, como o Brazilian Journal of Probability and Statistics;\nParticipação em programas estratégicos, como o Cientista-Chefe da Educação da FUNCAP;\nColaboração com processos de avaliação educacional no âmbito do INEP/MEC;\nProdução científica reconhecida e participação em congressos nacionais e internacionais."
+  },
+  {
+    "objectID": "equipe.html#quem-somos",
+    "href": "equipe.html#quem-somos",
+    "title": "Sobre o StatLab",
+    "section": "",
+    "text": "O StatLab é um laboratório que reúne pesquisadores experientes e jovens em formação, com atuação integrada em ensino, pesquisa e extensão. Seu propósito é evidenciar o potencial da Estatística e da Ciência de Dados na geração de conhecimento, inovação e impacto técnico e social.\n\n\nO laboratório está vinculado ao Departamento de Estatística e Matemática Aplicada (DEMA) da Universidade Federal do Ceará (UFC) e mantém colaboração com diferentes áreas e instituições. Entre suas atividades, destacam-se:\n\n\nAtuação de docentes dos Departamentos de Estatística e Matemática Aplicada e de Engenharia de Pesca da UFC;\nParticipação em programas de pós-graduação, como Modelagem e Métodos Quantitativos (CC-UFC) e Estatística do IMECC-UNICAMP;\nAtuação editorial e científica, incluindo participação em periódicos internacionais, como o Brazilian Journal of Probability and Statistics;\nParticipação em programas estratégicos, como o Cientista-Chefe da Educação da FUNCAP;\nColaboração com processos de avaliação educacional no âmbito do INEP/MEC;\nProdução científica reconhecida e participação em congressos nacionais e internacionais."
+  },
+  {
+    "objectID": "equipe.html#missão",
+    "href": "equipe.html#missão",
+    "title": "Sobre o StatLab",
+    "section": "Missão",
+    "text": "Missão\n\nIntegrar ensino, pesquisa e extensão para desenvolver soluções baseadas em Estatística e Ciência de Dados, contribuindo para a inovação, a formação qualificada e a geração de impacto na sociedade, em colaboração com instituições públicas e privadas."
+  },
+  {
+    "objectID": "equipe.html#objetivos",
+    "href": "equipe.html#objetivos",
+    "title": "Sobre o StatLab",
+    "section": "Objetivos",
+    "text": "Objetivos\nGeral\n\nConsolidar o StatLab como um laboratório de referência em Estatística e Ciência de Dados, promovendo a integração entre pesquisa, ensino e extensão e utilizando o conhecimento científico para gerar impacto na sociedade.\n\nEspecíficos\n\nDesenvolver soluções e prestar apoio técnico a organizações do setor público e privado;\nPromover educação continuada em Estatística e Ciência de Dados;\nDesenvolver projetos de extensão voltados à solução de problemas reais;\nEstimular a colaboração entre universidade, governo e setor produtivo;\nProduzir relatórios técnicos e artigos científicos com aplicações relevantes;\nRealizar ações de divulgação científica."
   },
   {
     "objectID": "projects/index.html",
@@ -152,5 +145,12 @@
     "title": "StatLab",
     "section": "📖 Produção Científica",
     "text": "📖 Produção Científica\n\n\nPublicações em Destaque\n\n\nAlternative Cholesky Decomposition and Scale Mixtures Signal Processing, 2025 A1 A2\n\n\nRobust Quantile Regression for Bounded Variables Statistics and Computing, 2024 A1 A2\n\n\nRobustness of the Student-t Process Scandinavian Journal of Statistics, 2023 A2 A3\n\n\n\n\n📚 Ver todas as publicações\n\n\n\nBayesian Inference for Zero-and/or-One Augmented Unit-Gamma Anais da Academia Brasileira de Ciências, 2026 A2 A3\n\n\nSurvival analysis for managing durability of water meters Caderno Pedagógico, 2025 A2 C\n\n\nUnit-Gamma Regression via Reparameterization Revista Colombiana de Estadística, 2025 B2\n\n\nParametric Quantile Regression based on Owen Distribution Journal of Statistical Computation and Simulation, 2025\n\n\nFlexible quasi-beta prime regression models Statistics and Its Interface, 2024 B2 B3\n\n\nUnit gamma regression models for correlated data Brazilian Journal of Probability and Statistics, 2023 B1\n\n\nPIPE Algorithm for Probability Distributions Anais da Academia Brasileira de Ciências, 2022 A2 A3\n\n\nModeling positive random variables with repeated measures Journal of Applied Statistics, 2022 A4 A3"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "StatLab",
+    "section": "",
+    "text": "Missão\n\n\n\n\nO Laboratório de Inovação em Estatística e Ciência de Dados (StatLab) do Departamento de Estatística e Matemática Aplicada (DEMA) da Universidade Federal do Ceará (UFC) propõe unir práticas de ensino, pesquisa e extensão para desenvolver soluções inovadoras com base na Estatística e Ciência de Dados, atuando principalmente em ações de extensão na pesquisa, desenvolvimento de produtos e inovação, com objetivo de atender demandas específicas do setor público e privado. Este laboratório visa estabelecer um Hub de excelência que promova a extensão por meio do ensino e pesquisa aplicada, assim como a colaboração interinstitucional e a transferência de conhecimento para a comunidade através de suas ações.\n\n\n\n\n\n\n\n\n\nObjetivos\n\n\n\nGeral:\n\nConsolidar o StatLab como um laboratório de referência em Estatística e Ciência de Dados que promova a integração eficaz de pesquisa, ensino e extensão, e que utilize o conhecimento científico para gerar impacto tangível na comunidade e no mercado.\n\nEspecíficos:\n\n\nRealizar consultorias para organizações e entidades do setor público e privado.\n\n\nAuxiliar na promoção da educação continuada em Estatística e Ciência de Dados através de atividades presenciais e via plataformas de aprendizado online, maximizando o alcance e a inclusão.\n\n\nDesenvolver projetos de extensão que apliquem técnicas de Estatística e Ciência de Dados na solução de problemas reais da sociedade. Fomentar a colaboração entre a universidade e diversos setores da economia para promover a inovação.\n\n\nProdução de relatório e artigos científicos com metodologias úteis para a sociedade.\n\n\nRealizar ações de divulgação da área de Estatística e Ciência de Dados."
   }
 ]
