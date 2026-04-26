@@ -136,7 +136,7 @@ O projeto tem como foco auxiliar no acompanhamento dos estoques pesqueiros das l
 <div class="group-grid">
 
 <div class="group-card">
-<div class="group-title">📊 StatLab - Laboratório de Inovação em Estatística</div>
+<div class="group-title">📊 StatLab - Laboratório de Inovação em Estatística e Ciência de Dados</div>
 <div class="group-link">
 <a href="http://dgp.cnpq.br/dgp/espelhogrupo/2581091034867671" target="_blank">
 🔗 Acessar grupo

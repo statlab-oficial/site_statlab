@@ -1,47 +1,5 @@
 [
   {
-    "objectID": "pessoas/index.html",
-    "href": "pessoas/index.html",
-    "title": "StatLab",
-    "section": "",
-    "text": "O StatLab reúne docentes, pesquisadores, bolsistas e agentes de extensão, ensino e pesquisa, que atuam de forma integrada em projetos de pesquisa, ensino e extensão, contribuindo para o desenvolvimento de soluções em Estatística e Ciência de Dados."
-  },
-  {
-    "objectID": "pessoas/index.html#pessoas",
-    "href": "pessoas/index.html#pessoas",
-    "title": "StatLab",
-    "section": "",
-    "text": "O StatLab reúne docentes, pesquisadores, bolsistas e agentes de extensão, ensino e pesquisa, que atuam de forma integrada em projetos de pesquisa, ensino e extensão, contribuindo para o desenvolvimento de soluções em Estatística e Ciência de Dados."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Laboratório de Inovação em Estatística",
-    "section": "",
-    "text": "Instagram\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     Email\n  \n\n  \n  \n\n\nO StatLab é um espaço de inovação que integra pesquisa, ensino e extensão, promovendo o uso da Estatística e da Ciência de Dados para gerar impacto real na sociedade. Desenvolvemos soluções baseadas em dados para desafios contemporâneos.\n\n\nDados que geram decisões. Estatística que gera impacto.\n\nConheça nossos projetos e ações\n\n\n📢 Notícias\n(20.03.2026) StatLab é parceiro da Olimpíada Brasileira de Estatística (OBE) e reforça o incentivo à divulgação da Estatística nas escolas de Ensino Médio."
-  },
-  {
-    "objectID": "index.html#linhas-de-atuação",
-    "href": "index.html#linhas-de-atuação",
-    "title": "Laboratório de Inovação em Estatística",
-    "section": "🔬 Linhas de Atuação",
-    "text": "🔬 Linhas de Atuação\n\n\n\n📣 Divulgação e Popularização da Ciência\n\nO StatLab atua na aproximação entre a Estatística, a Ciência de Dados e a sociedade, traduzindo conceitos técnicos em linguagem acessível e significativa. Ações de extensão, eventos, materiais educativos e iniciativas de comunicação científica contribuem para fortalecer a cultura de dados e estimular o pensamento crítico. O objetivo é ampliar o alcance do conhecimento estatístico, tornando-o mais compreensível, relevante e presente no cotidiano.\n\n\n\n\n\n💻 Analytics\n\nA análise de dados é utilizada para gerar conhecimento aplicado e apoiar a tomada de decisão. A partir de diferentes volumes e fontes de dados, são identificados padrões, tendências e relações que ajudam a orientar estratégias em áreas como negócios, saúde e políticas públicas. O foco está em transformar dados brutos em informações úteis, com impacto prático e mensurável.\n\n\n\n\n\n🤖 Aprendizado Estatístico\n\nMétodos estatísticos e técnicas de aprendizado de máquina são combinados para construir modelos capazes de descrever e prever fenômenos complexos. As aplicações envolvem desde o apoio a diagnósticos na área da saúde até a análise de comportamentos em mercados e sistemas dinâmicos. O desenvolvimento desses modelos busca soluções consistentes, interpretáveis e alinhadas às demandas reais.\n\n\n\n\n\n📈 Análise de Dados para Impacto Social\n\nA análise de dados é aplicada ao desenvolvimento de soluções com impacto social, apoiando decisões em áreas como saúde, educação, segurança e gestão pública. Também são contempladas iniciativas de inovação no setor privado, com foco na geração de evidências que contribuam para ações mais eficientes e orientadas por resultados."
-  },
-  {
-    "objectID": "index.html#parceiros",
-    "href": "index.html#parceiros",
-    "title": "Laboratório de Inovação em Estatística",
-    "section": "🤝 Parceiros",
-    "text": "🤝 Parceiros"
-  },
-  {
-    "objectID": "index.html#apoio",
-    "href": "index.html#apoio",
-    "title": "Laboratório de Inovação em Estatística",
-    "section": "🏛️ Apoio",
-    "text": "🏛️ Apoio"
-  },
-  {
     "objectID": "sobre/index.html",
     "href": "sobre/index.html",
     "title": "StatLab",
@@ -70,6 +28,20 @@
     "text": "Objetivos\nGeral\n\nConsolidar o StatLab como um laboratório de referência em Estatística e Ciência de Dados, promovendo a integração entre pesquisa, ensino e extensão e utilizando o conhecimento científico para gerar impacto na sociedade.\n\nEspecíficos\n\nDesenvolver soluções e prestar apoio técnico a organizações do setor público e privado;\nPromover educação continuada em Estatística e Ciência de Dados;\nDesenvolver projetos de extensão voltados à solução de problemas reais;\nEstimular a colaboração entre universidade, governo e setor produtivo;\nProduzir relatórios técnicos e artigos científicos com aplicações relevantes;\nRealizar ações de divulgação científica."
   },
   {
+    "objectID": "pessoas/index.html",
+    "href": "pessoas/index.html",
+    "title": "StatLab",
+    "section": "",
+    "text": "O StatLab reúne docentes, pesquisadores, bolsistas e agentes de extensão, ensino e pesquisa, que atuam de forma integrada em projetos de pesquisa, ensino e extensão, contribuindo para o desenvolvimento de soluções em Estatística e Ciência de Dados."
+  },
+  {
+    "objectID": "pessoas/index.html#pessoas",
+    "href": "pessoas/index.html#pessoas",
+    "title": "StatLab",
+    "section": "",
+    "text": "O StatLab reúne docentes, pesquisadores, bolsistas e agentes de extensão, ensino e pesquisa, que atuam de forma integrada em projetos de pesquisa, ensino e extensão, contribuindo para o desenvolvimento de soluções em Estatística e Ciência de Dados."
+  },
+  {
     "objectID": "equipe.html",
     "href": "equipe.html",
     "title": "Sobre o StatLab",
@@ -96,6 +68,41 @@
     "title": "Sobre o StatLab",
     "section": "Objetivos",
     "text": "Objetivos\nGeral\n\nConsolidar o StatLab como um laboratório de referência em Estatística e Ciência de Dados, promovendo a integração entre pesquisa, ensino e extensão e utilizando o conhecimento científico para gerar impacto na sociedade.\n\nEspecíficos\n\nDesenvolver soluções e prestar apoio técnico a organizações do setor público e privado;\nPromover educação continuada em Estatística e Ciência de Dados;\nDesenvolver projetos de extensão voltados à solução de problemas reais;\nEstimular a colaboração entre universidade, governo e setor produtivo;\nProduzir relatórios técnicos e artigos científicos com aplicações relevantes;\nRealizar ações de divulgação científica."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "StatLab",
+    "section": "",
+    "text": "DicaMissão\n\n\n\n\nO Laboratório de Inovação em Estatística e Ciência de Dados (StatLab) do Departamento de Estatística e Matemática Aplicada (DEMA) da Universidade Federal do Ceará (UFC) propõe unir práticas de ensino, pesquisa e extensão para desenvolver soluções inovadoras com base na Estatística e Ciência de Dados, atuando principalmente em ações de extensão na pesquisa, desenvolvimento de produtos e inovação, com objetivo de atender demandas específicas do setor público e privado. Este laboratório visa estabelecer um Hub de excelência que promova a extensão por meio do ensino e pesquisa aplicada, assim como a colaboração interinstitucional e a transferência de conhecimento para a comunidade através de suas ações.\n\n\n\n\n\n\n\n\n\nDicaObjetivos\n\n\n\nGeral:\n\nConsolidar o StatLab como um laboratório de referência em Estatística e Ciência de Dados que promova a integração eficaz de pesquisa, ensino e extensão, e que utilize o conhecimento científico para gerar impacto tangível na comunidade e no mercado.\n\nEspecíficos:\n\n\nRealizar consultorias para organizações e entidades do setor público e privado.\n\n\nAuxiliar na promoção da educação continuada em Estatística e Ciência de Dados através de atividades presenciais e via plataformas de aprendizado online, maximizando o alcance e a inclusão.\n\n\nDesenvolver projetos de extensão que apliquem técnicas de Estatística e Ciência de Dados na solução de problemas reais da sociedade. Fomentar a colaboração entre a universidade e diversos setores da economia para promover a inovação.\n\n\nProdução de relatório e artigos científicos com metodologias úteis para a sociedade.\n\n\nRealizar ações de divulgação da área de Estatística e Ciência de Dados."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Laboratório de Inovação em Estatística",
+    "section": "",
+    "text": "Instagram\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     Email\n  \n\n  \n  \n\n\nO StatLab é um espaço de inovação que integra pesquisa, ensino e extensão, promovendo o uso da Estatística e da Ciência de Dados para gerar impacto real na sociedade. Desenvolvemos soluções baseadas em dados para desafios contemporâneos.\n\n\nDados que geram decisões. Estatística que gera impacto.\n\nConheça nossos projetos e ações\n\n\n📢 Notícias\n(20.03.2026) StatLab é parceiro da Olimpíada Brasileira de Estatística (OBE) e reforça o incentivo à divulgação da Estatística nas escolas de Ensino Médio."
+  },
+  {
+    "objectID": "index.html#linhas-de-atuação",
+    "href": "index.html#linhas-de-atuação",
+    "title": "Laboratório de Inovação em Estatística",
+    "section": "🔬 Linhas de Atuação",
+    "text": "🔬 Linhas de Atuação\n\n\n\n📣 Divulgação e Popularização da Ciência\n\nO StatLab atua na aproximação entre a Estatística, a Ciência de Dados e a sociedade, traduzindo conceitos técnicos em linguagem acessível e significativa. Ações de extensão, eventos, materiais educativos e iniciativas de comunicação científica contribuem para fortalecer a cultura de dados e estimular o pensamento crítico. O objetivo é ampliar o alcance do conhecimento estatístico, tornando-o mais compreensível, relevante e presente no cotidiano.\n\n\n\n\n\n💻 Analytics\n\nA análise de dados é utilizada para gerar conhecimento aplicado e apoiar a tomada de decisão. A partir de diferentes volumes e fontes de dados, são identificados padrões, tendências e relações que ajudam a orientar estratégias em áreas como negócios, saúde e políticas públicas. O foco está em transformar dados brutos em informações úteis, com impacto prático e mensurável.\n\n\n\n\n\n🤖 Aprendizado Estatístico\n\nMétodos estatísticos e técnicas de aprendizado de máquina são combinados para construir modelos capazes de descrever e prever fenômenos complexos. As aplicações envolvem desde o apoio a diagnósticos na área da saúde até a análise de comportamentos em mercados e sistemas dinâmicos. O desenvolvimento desses modelos busca soluções consistentes, interpretáveis e alinhadas às demandas reais.\n\n\n\n\n\n📈 Análise de Dados para Impacto Social\n\nA análise de dados é aplicada ao desenvolvimento de soluções com impacto social, apoiando decisões em áreas como saúde, educação, segurança e gestão pública. Também são contempladas iniciativas de inovação no setor privado, com foco na geração de evidências que contribuam para ações mais eficientes e orientadas por resultados."
+  },
+  {
+    "objectID": "index.html#parceiros",
+    "href": "index.html#parceiros",
+    "title": "Laboratório de Inovação em Estatística",
+    "section": "🤝 Parceiros",
+    "text": "🤝 Parceiros"
+  },
+  {
+    "objectID": "index.html#apoio",
+    "href": "index.html#apoio",
+    "title": "Laboratório de Inovação em Estatística",
+    "section": "🏛️ Apoio",
+    "text": "🏛️ Apoio"
   },
   {
     "objectID": "projects/index.html",
@@ -137,7 +144,7 @@
     "href": "projects/index.html#grupos-de-pesquisa",
     "title": "StatLab",
     "section": "📚 Grupos de Pesquisa",
-    "text": "📚 Grupos de Pesquisa\n\n\n\n📊 StatLab - Laboratório de Inovação em Estatística\n\n\n 🔗 Acessar grupo \n\n\n\n\n📈 Modelos de Regressão e Aplicações\n\n\n 🔗 Acessar grupo \n\n\n\n\n⏳ Modelos de Sobrevivência e Aplicações\n\n\n 🔗 Acessar grupo \n\n\n\n\n🧠 Métodos Bayesianos\n\n\n 🔗 Acessar grupo"
+    "text": "📚 Grupos de Pesquisa\n\n\n\n📊 StatLab - Laboratório de Inovação em Estatística e Ciência de Dados\n\n\n 🔗 Acessar grupo \n\n\n\n\n📈 Modelos de Regressão e Aplicações\n\n\n 🔗 Acessar grupo \n\n\n\n\n⏳ Modelos de Sobrevivência e Aplicações\n\n\n 🔗 Acessar grupo \n\n\n\n\n🧠 Métodos Bayesianos\n\n\n 🔗 Acessar grupo"
   },
   {
     "objectID": "projects/index.html#produção-científica",
@@ -145,12 +152,5 @@
     "title": "StatLab",
     "section": "📖 Produção Científica",
     "text": "📖 Produção Científica\n\n\nPublicações em Destaque\n\n\nAlternative Cholesky Decomposition and Scale Mixtures Signal Processing, 2025 A1 A2\n\n\nRobust Quantile Regression for Bounded Variables Statistics and Computing, 2024 A1 A2\n\n\nRobustness of the Student-t Process Scandinavian Journal of Statistics, 2023 A2 A3\n\n\n\n\n📚 Ver todas as publicações\n\n\n\nBayesian Inference for Zero-and/or-One Augmented Unit-Gamma Anais da Academia Brasileira de Ciências, 2026 A2 A3\n\n\nSurvival analysis for managing durability of water meters Caderno Pedagógico, 2025 A2 C\n\n\nUnit-Gamma Regression via Reparameterization Revista Colombiana de Estadística, 2025 B2\n\n\nParametric Quantile Regression based on Owen Distribution Journal of Statistical Computation and Simulation, 2025\n\n\nFlexible quasi-beta prime regression models Statistics and Its Interface, 2024 B2 B3\n\n\nUnit gamma regression models for correlated data Brazilian Journal of Probability and Statistics, 2023 B1\n\n\nPIPE Algorithm for Probability Distributions Anais da Academia Brasileira de Ciências, 2022 A2 A3\n\n\nModeling positive random variables with repeated measures Journal of Applied Statistics, 2022 A4 A3"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "StatLab",
-    "section": "",
-    "text": "Missão\n\n\n\n\nO Laboratório de Inovação em Estatística e Ciência de Dados (StatLab) do Departamento de Estatística e Matemática Aplicada (DEMA) da Universidade Federal do Ceará (UFC) propõe unir práticas de ensino, pesquisa e extensão para desenvolver soluções inovadoras com base na Estatística e Ciência de Dados, atuando principalmente em ações de extensão na pesquisa, desenvolvimento de produtos e inovação, com objetivo de atender demandas específicas do setor público e privado. Este laboratório visa estabelecer um Hub de excelência que promova a extensão por meio do ensino e pesquisa aplicada, assim como a colaboração interinstitucional e a transferência de conhecimento para a comunidade através de suas ações.\n\n\n\n\n\n\n\n\n\nObjetivos\n\n\n\nGeral:\n\nConsolidar o StatLab como um laboratório de referência em Estatística e Ciência de Dados que promova a integração eficaz de pesquisa, ensino e extensão, e que utilize o conhecimento científico para gerar impacto tangível na comunidade e no mercado.\n\nEspecíficos:\n\n\nRealizar consultorias para organizações e entidades do setor público e privado.\n\n\nAuxiliar na promoção da educação continuada em Estatística e Ciência de Dados através de atividades presenciais e via plataformas de aprendizado online, maximizando o alcance e a inclusão.\n\n\nDesenvolver projetos de extensão que apliquem técnicas de Estatística e Ciência de Dados na solução de problemas reais da sociedade. Fomentar a colaboração entre a universidade e diversos setores da economia para promover a inovação.\n\n\nProdução de relatório e artigos científicos com metodologias úteis para a sociedade.\n\n\nRealizar ações de divulgação da área de Estatística e Ciência de Dados."
   }
 ]
