@@ -119,7 +119,7 @@ O projeto está alinhado à Agenda 2030 das Nações Unidas e propõe o uso de T
 Modelagem integrada na dinâmica populacional de *Panulirus argus* e *Panulirus laevicauda* no Brasil: subsídios para avaliação de estoques e definição de cotas de captura
 </div>
 <div class="project-desc">
-O projeto tem como foco auxiliar no acompanhamento dos estoques pesqueiros das lagostas vermelha e verde no Brasil, por meio da organização e análise de dados biológicos, pesqueiros e de comercialização. As atividades envolvem a preparação de relatórios técnicos, a investigação de padrões e tendências ao longo do tempo e o desenvolvimento de estudos aplicados voltados à avaliação dos estoques. A iniciativa contribui para a geração e difusão de conhecimento científico, subsidiando a gestão sustentável da pesca e dialogando com os Objetivos de Desenvolvimento Sustentável, especialmente as ODS 8, 12, 14 e 17.
+O projeto tem como foco auxiliar no acompanhamento dos estoques pesqueiros das lagostas vermelha e verde no Brasil, por meio da organização e análise de dados biológicos, pesqueiros e de comercialização. As atividades envolvem a preparação de relatórios técnicos, a investigação de padrões e tendências ao longo do tempo e o desenvolvimento de estudos aplicados voltados à avaliação dos estoques. A iniciativa contribui para a geração e difusão de conhecimento científico, subsidiando a gestão sustentável da pesca e dialogando com os Objetivos de Desenvolvimento Sustentável, especialmente os ODS 8, 12, 14 e 17.
 
 <div class="project-link">
 <a href="cota_de_captura_abril_2026.pdf" target="_blank" class="link-statlab">
