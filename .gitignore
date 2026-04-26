@@ -1,4 +1,25 @@
-/.quarto/
-.Rproj.user
+# =========================
+# R / RStudio
+# =========================
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
 
+# =========================
+# Quarto (arquivos gerados/cache)
+# =========================
+.quarto/
 **/*.quarto_ipynb
+
+# =========================
+# Sistema (Windows/Mac)
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Outros (segurança geral)
+# =========================
+*.log
+*.tmp
