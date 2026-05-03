@@ -10,7 +10,7 @@ O StatLab é um laboratório que reúne pesquisadores experientes e estudantes e
 
 Vinculado ao Departamento de Estatística e Matemática Aplicada (DEMA) da Universidade Federal do Ceará (UFC), o laboratório mantém colaboração com diferentes áreas e instituições, desenvolvendo atividades que incluem:
 
-- Docentes dos [Departamentos de Estatística e Matemática Aplicada](https://dema.ufc.br/pt/){.external target="_blank"} da UFC;
+- Docentes dos [Departamento de Estatística e Matemática Aplicada](https://dema.ufc.br/pt/){.external target="_blank"} da UFC;
 - Participação em programas de pós-graduação, como [Modelagem e Métodos Quantitativos](https://mmq.ufc.br/pt/docentes/){.external target="_blank"} (CC-UFC) e Estatística do [IMECC-UNICAMP](https://www.ime.unicamp.br/pos-graduacao/estatistica/docentes-credenciados){.external target="_blank"};
 - Atuação científica e editorial, com participação em periódicos internacionais, como o [Brazilian Journal of Probability and Statistics](https://imstat.org/journals-and-publications/brazilian-journal-of-probability-and-statistics/){.external target="_blank"};
 - Inserção em programas estratégicos, como o [Cientista-Chefe da Educação da FUNCAP](https://www.funcap.ce.gov.br/cientista-chefe-descricao-dos-programas/){.external target="_blank"};
