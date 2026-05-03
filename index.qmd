@@ -42,9 +42,12 @@ Dados que geram decisões. Estatística que gera impacto.
 
 ::: {.aviso-destaque}
 **📢 Notícias**
+
 - **(20.03.2026)** StatLab torna-se parceiro da Olimpíada Brasileira de Estatística (OBE) e reforça o incentivo à divulgação da Estatística nas escolas.  
-- **(26.01.2026)** O StatLab teve aprovadas duas ações de extensão pela PREX/UFC, uma ACCS e um projeto de extensão, com bolsas e participação de cerca de 30 discentes.  
-- **(18.06.2024)** O StatLab passa a integrar o Diretório dos Grupos de Pesquisa do CNPq.
+
+- **(26.01.2026)** StatLab teve aprovadas duas ações pela PREX/UFC, uma ACCS e um projeto de extensão, com bolsas e participação de cerca de 30 discentes. 
+
+- **(18.06.2024)** StatLab passa a integrar o Diretório dos Grupos de Pesquisa do CNPq.
 :::
 
 
