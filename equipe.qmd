@@ -1,50 +1,46 @@
 ---
-title: "Sobre o StatLab"
+title: ""
 callout-icon: false
 ---
 
 ::: {.bloco-destaque}
 ## Quem somos
 
-<p id="para2">
-O StatLab é um laboratório que reúne pesquisadores experientes e jovens em formação, com atuação integrada em ensino, pesquisa e extensão. Seu propósito é evidenciar o potencial da Estatística e da Ciência de Dados na geração de conhecimento, inovação e impacto técnico e social.
-</p>
+O StatLab é um laboratório que reúne pesquisadores experientes e estudantes em formação, com atuação integrada em ensino, pesquisa e extensão. Seu propósito é evidenciar o potencial da Estatística e da Ciência de Dados na geração de conhecimento, inovação e impacto técnico e social.
 
-<p id="para2">
-O laboratório está vinculado ao Departamento de Estatística e Matemática Aplicada (DEMA) da Universidade Federal do Ceará (UFC) e mantém colaboração com diferentes áreas e instituições. Entre suas atividades, destacam-se:
-</p>
+Vinculado ao Departamento de Estatística e Matemática Aplicada (DEMA) da Universidade Federal do Ceará (UFC), o laboratório mantém colaboração com diferentes áreas e instituições, desenvolvendo atividades que incluem:
 
-- Atuação de docentes dos [Departamentos de Estatística e Matemática Aplicada](https://dema.ufc.br/pt/professores/){.external target="_blank"} e de [Engenharia de Pesca](https://cca.ufc.br/pt/corpo-docente-do-cca/departamento-de-engenharia-de-pesca-dep/){.external target="_blank"} da UFC;
+- Docentes dos [Departamentos de Estatística e Matemática Aplicada](https://dema.ufc.br/pt/professores/){.external target="_blank"} da UFC;
 - Participação em programas de pós-graduação, como [Modelagem e Métodos Quantitativos](https://mmq.ufc.br/pt/docentes/){.external target="_blank"} (CC-UFC) e Estatística do [IMECC-UNICAMP](https://www.ime.unicamp.br/pos-graduacao/estatistica/docentes-credenciados){.external target="_blank"};
-- Atuação editorial e científica, incluindo participação em periódicos internacionais, como o [Brazilian Journal of Probability and Statistics](https://imstat.org/journals-and-publications/brazilian-journal-of-probability-and-statistics/){.external target="_blank"};
-- Participação em programas estratégicos, como o [Cientista-Chefe da Educação da FUNCAP](https://www.funcap.ce.gov.br/cientista-chefe-descricao-dos-programas/){.external target="_blank"};
+- Atuação científica e editorial, com participação em periódicos internacionais, como o [Brazilian Journal of Probability and Statistics](https://imstat.org/journals-and-publications/brazilian-journal-of-probability-and-statistics/){.external target="_blank"};
+- Inserção em programas estratégicos, como o [Cientista-Chefe da FUNCAP](https://www.funcap.ce.gov.br/cientista-chefe-descricao-dos-programas/){.external target="_blank"};
 - Colaboração com processos de avaliação educacional no âmbito do INEP/MEC;
-- Produção científica reconhecida e participação em congressos nacionais e internacionais.
+- Produção científica e participação em congressos nacionais e internacionais.
+
+O StatLab posiciona-se como um ambiente de integração entre produção científica, formação acadêmica e aplicação prática, com foco no uso de dados para compreensão e solução de problemas reais.
 :::
+
 
 ::: {.bloco-claro}
 ## Missão
 
-<p id="para2">
 Integrar ensino, pesquisa e extensão para desenvolver soluções baseadas em Estatística e Ciência de Dados, contribuindo para a inovação, a formação qualificada e a geração de impacto na sociedade, em colaboração com instituições públicas e privadas.
-</p>
 :::
+
 
 ::: {.bloco-claro}
 ## Objetivos
 
 **Geral**
 
-<p id="para2">
 Consolidar o StatLab como um laboratório de referência em Estatística e Ciência de Dados, promovendo a integração entre pesquisa, ensino e extensão e utilizando o conhecimento científico para gerar impacto na sociedade.
-</p>
 
 **Específicos**
 
-- Desenvolver soluções e prestar apoio técnico a organizações do setor público e privado;
-- Promover educação continuada em Estatística e Ciência de Dados;
-- Desenvolver projetos de extensão voltados à solução de problemas reais;
-- Estimular a colaboração entre universidade, governo e setor produtivo;
-- Produzir relatórios técnicos e artigos científicos com aplicações relevantes;
-- Realizar ações de divulgação científica.
+- Desenvolver soluções e prestar apoio técnico a organizações públicas e privadas;
+- Promover formação e educação continuada em Estatística e Ciência de Dados;
+- Desenvolver projetos de extensão voltados à troca de saberes e à solução de problemas reais;
+- Estimular a colaboração entre universidade, governo, sociedade e setor produtivo;
+- Produzir relatórios técnicos, materiais formativos e artigos científicos com aplicações relevantes;
+- Realizar ações de divulgação científica em Estatística e Ciência de Dados.
 :::
