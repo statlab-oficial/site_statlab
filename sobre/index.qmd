@@ -3,7 +3,11 @@ title: ""
 callout-icon: false
 ---
 
-::: {.bloco-destaque}
+::: {.grid}
+
+::: {.g-col-12}
+
+::: {.bloco-claro}
 ## Quem somos
 
 O StatLab é um laboratório que reúne pesquisadores experientes e estudantes em formação, com atuação integrada em ensino, pesquisa e extensão. Seu propósito é evidenciar o potencial da Estatística e da Ciência de Dados na geração de conhecimento, inovação e impacto técnico e social.
@@ -13,20 +17,28 @@ Vinculado ao Departamento de Estatística e Matemática Aplicada (DEMA) da Unive
 - Docentes dos [Departamento de Estatística e Matemática Aplicada](https://dema.ufc.br/pt/){.external target="_blank"} da UFC;
 - Participação em programas de pós-graduação, como [Modelagem e Métodos Quantitativos](https://mmq.ufc.br/pt/docentes/){.external target="_blank"} (CC-UFC) e Estatística do [IMECC-UNICAMP](https://www.ime.unicamp.br/pos-graduacao/estatistica/docentes-credenciados){.external target="_blank"};
 - Atuação científica e editorial, com participação em periódicos internacionais, como o [Brazilian Journal of Probability and Statistics](https://imstat.org/journals-and-publications/brazilian-journal-of-probability-and-statistics/){.external target="_blank"};
-- Inserção em programas estratégicos, como o [Cientista-Chefe da Educação da FUNCAP](https://www.funcap.ce.gov.br/cientista-chefe-descricao-dos-programas/){.external target="_blank"};
+- Inserção em programas estratégicos, como o [Cientista-Chefe da FUNCAP](https://www.funcap.ce.gov.br/cientista-chefe-descricao-dos-programas/){.external target="_blank"};
 - Colaboração com processos de avaliação educacional no âmbito do INEP/MEC;
 - Produção científica e participação em congressos nacionais e internacionais.
 
 O StatLab posiciona-se como um ambiente de integração entre produção científica, formação acadêmica e aplicação prática, com foco no uso de dados para compreensão e solução de problemas reais.
+
 :::
 
+:::
+
+::: {.g-col-12 .g-col-md-6}
 
 ::: {.bloco-claro}
 ## Missão
 
 Integrar ensino, pesquisa e extensão para desenvolver soluções baseadas em Estatística e Ciência de Dados, contribuindo para a inovação, a formação qualificada e a geração de impacto na sociedade, em colaboração com instituições públicas e privadas.
+
 :::
 
+:::
+
+::: {.g-col-12 .g-col-md-6}
 
 ::: {.bloco-claro}
 ## Objetivos
@@ -43,4 +55,9 @@ Consolidar o StatLab como um laboratório de referência em Estatística e Ciên
 - Estimular a colaboração entre universidade, governo, sociedade e setor produtivo;
 - Produzir relatórios técnicos, materiais formativos e artigos científicos com aplicações relevantes;
 - Realizar ações de divulgação científica em Estatística e Ciência de Dados.
+
+:::
+
+:::
+
 :::

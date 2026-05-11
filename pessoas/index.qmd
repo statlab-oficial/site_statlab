@@ -18,55 +18,55 @@ O StatLab reúne docentes, pesquisadores, bolsistas e agentes de extensão, ensi
 <div class="grid">
 
 <div class="g-col-3 membro-card">
-![](images/Alessandra_PB.png){width=100%}
+![](images/Alessandra_grafite.png){width=100%}
 **Alessandra Cristina da Silva Farias**  
 Impacto Social • Estatística pesqueira e ensino da estatística
 </div>
 
 <div class="g-col-3 membro-card">
-![](images/Ailton_PB.png){width=100%}
+![](images/Ailton_grafite.png){width=100%}
 **Jose Ailton Alencar Andrade**  
 Analytics • Métodos Bayesianos e processos estocásticos
 </div>
 
 <div class="g-col-3 membro-card">
-![](images/Roberto_PB.png){width=100%}
+![](images/Roberto_grafite.png){width=100%}
 **Jose Roberto Silva dos Santos**  
 Analytics • Modelos bayesianos e avaliação educacional
 </div>
 
 <div class="g-col-3 membro-card">
-![](images/Juvencio_PB.png){width=100%}
+![](images/Juvencio_grafite.png){width=100%}
 **Juvencio Santos Nobre**  
 Aprendizado Estatístico • Modelos de regressão e para dados longitudinais
 </div>
 
 <div class="g-col-3 membro-card">
-![](images/Gustavo_PB.png){width=100%}
+![](images/Gustavo_grafite.png){width=100%}
 **Luis Gustavo Bastos Pinho**  
 Aprendizado Estatístico • Probabilidade e processos estocásticos
 </div>
 
 <div class="g-col-3 membro-card">
-![](images/Manoel_PB.png){width=100%}
+![](images/Manoel_grafite.png){width=100%}
 **Manoel F. dos Santos Neto**  
 Analytics • Modelos e regressão e sobrevivência
 </div>
 
 <div class="g-col-3 membro-card">
-![](images/Jacqueline_PB.png){width=100%}
+![](images/Jacqueline_grafite.png){width=100%}
 **Maria Jacqueline Batista**  
 Impacto Social • Análise de dados e regressão aplicada
 </div>
 
 <div class="g-col-3 membro-card">
-![](images/Rafael_PB.png){width=100%}
+![](images/Rafael_grafite.png){width=100%}
 **Rafael Braz Azevedo Farias**  
 Impacto Social • Modelagem estatística e avaliação educacional
 </div>
 
 <div class="g-col-3 membro-card">
-![](images/Ronald_PB.png){width=100%}
+![](images/Ronald_grafite.png){width=100%}
 **Ronald Targino Nojosa**  
 Analytics • Modelos de regressão e estatística computacional
 </div>
