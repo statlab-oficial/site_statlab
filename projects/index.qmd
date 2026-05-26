@@ -57,6 +57,21 @@ A ação busca consolidar o StatLab como referência em Estatística e Ciência 
 
 <div class="project-card project-ensino">
 <div class="project-title">
+<span class="project-icon">💳</span>
+Introdução à Modelagem de Risco de Crédito
+</div>
+<div class="project-desc">
+Este minicurso apresenta, de forma prática e acessível, os fundamentos da modelagem de risco de crédito, abordando desde a preparação dos dados até a construção e avaliação de modelos preditivos. São discutidos conceitos como inadimplência, regressão logística, métricas de avaliação, threshold, custo de decisão e técnicas específicas de crédito, com exemplos aplicados em Python. O objetivo é mostrar como dados podem ser transformados em decisões no contexto de risco e concessão de crédito.
+
+<a href="https://statlab-oficial.github.io/minicurso-risco-credito/" target="_blank">
+🔗 Acessar minicurso
+</a>
+</div>
+</div>
+
+
+<div class="project-card project-ensino">
+<div class="project-title">
 <span class="project-icon">🤖</span>
 Storytelling com Dados com Auxílio de IAs
 </div>
