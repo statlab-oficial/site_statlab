@@ -6,6 +6,10 @@ website:
   favicon: StatLab_oficial.png
   page-navigation: true
   title: "StatLab"
+  
+  body-footer: |
+    <script data-goatcounter="https://statlab.goatcounter.com/count"
+            async src="//gc.zgo.at/count.js"></script>
 
   page-footer:
     background: dark

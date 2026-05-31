@@ -130,17 +130,33 @@ O projeto está alinhado à Agenda 2030 das Nações Unidas e propõe o uso de T
 
 <div class="project-card project-pesquisa">
 <div class="project-title">
-<span class="project-icon">🦞</span>
-Modelagem integrada na dinâmica populacional de *Panulirus argus* e *Panulirus laevicauda* no Brasil: subsídios para avaliação de estoques e definição de cotas de captura
+  <span class="project-icon">🦞</span>
+  <span class="project-title-body">
+    Modelagem integrada na dinâmica populacional de Panulirus argus e Panulirus laevicauda no Brasil: subsídios para avaliação de estoques e definição de cotas de captura
+    <span class="project-asset">
+      📚 Materiais disponíveis
+    </span>
+  </span>
 </div>
 <div class="project-desc">
 O projeto tem como foco auxiliar no acompanhamento dos estoques pesqueiros das lagostas vermelha e verde no Brasil, por meio da organização e análise de dados biológicos, pesqueiros e de comercialização. As atividades envolvem a preparação de relatórios técnicos, a investigação de padrões e tendências ao longo do tempo e o desenvolvimento de estudos aplicados voltados à avaliação dos estoques. A iniciativa contribui para a geração e difusão de conhecimento científico, subsidiando a gestão sustentável da pesca e dialogando com os Objetivos de Desenvolvimento Sustentável, especialmente os ODS 8, 12, 14 e 17.
 
-<div class="project-link">
-<a href="cota_de_captura_abril_2026.pdf" target="_blank" class="link-statlab">
-📄 Relatório técnico: Avaliação da Cota de Captura para as Lagostas no Brasil — abril de 2026
-</a>
+<div class="project-downloads">
+  <div class="downloads-title">📥 Materiais disponíveis</div>
+
+  <a href="cota_de_captura_abril_2026.pdf"
+     target="_blank"
+     class="download-card"
+     data-goatcounter-click="download-cota-captura-lagosta-abril-2026"
+     data-goatcounter-title="Relatório técnico - Cota de Captura das Lagostas - Abril 2026">
+    <span class="download-icon">📄</span>
+    <span class="download-text">
+      <strong>Relatório técnico</strong>
+      <small>Avaliação da Cota de Captura para as Lagostas no Brasil — abril de 2026</small>
+    </span>
+  </a>
 </div>
+
 </div>
 </div>
 
