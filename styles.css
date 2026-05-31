@@ -341,16 +341,9 @@
 }
 
 .project-link {
-  margin-top: 12px;
-}
-
-.project-link a {
-  display: inline-block;
+  margin-top: 6px;
   font-size: 0.95em;
-}
-
-.project-link a:hover {
-  text-decoration: underline;
+  color: var(--statlab-blue);
 }
 
 .project-extensao {
@@ -534,10 +527,10 @@
 }
 
 .project-asset {
-  margin-top: 0.15rem;
-  font-size: 0.95em;
+  margin-top: 0.2rem;
+  margin-left: 2.0rem;
+  font-size: 0.90em;
   color: var(--text-secondary);
-  font-weight: 400;
 }
 
 /* =========================
