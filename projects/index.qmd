@@ -42,43 +42,28 @@ Esta iniciativa desenvolve ações voltadas à aplicação da Estatística e da 
 </div>
 </div>
 
+
 <div class="project-card project-extensao">
 <div class="project-title">
-<span class="project-icon">📢</span>
-Formação e Cultura de Dados para a Sociedade
+<span class="project-icon">📊</span>
+Storytelling com Dados
 </div>
-
 <div class="project-link">
 📂 Recursos e produtos disponíveis
 </div>
-
 <div class="project-desc">
-<p>Esta iniciativa promove a formação e a cultura de dados por meio de palestras, minicursos, apresentações e materiais de divulgação científica. As atividades exploram aplicações da Estatística e da Ciência de Dados em diferentes contextos, contribuindo para a disseminação do conhecimento, a formação continuada e o fortalecimento do diálogo entre Universidade e sociedade.</p>
-
+O projeto tem como objetivo investigar e difundir estratégias de comunicação de dados e resultados estatísticos para diferentes públicos, explorando princípios de visualização, narrativa e interpretação de evidências. As atividades contemplam desde a construção de gráficos e painéis até o desenvolvimento de histórias orientadas por dados, buscando transformar análises quantitativas em mensagens claras, acessíveis e relevantes para a tomada de decisão. Também são exploradas ferramentas de inteligência artificial como apoio ao processo de comunicação, sempre com ênfase na curadoria e no julgamento crítico do analista.
 <div class="project-downloads">
   <div class="downloads-title">📂 Recursos e produtos disponíveis</div>
-
-  <a href="https://statlab-oficial.github.io/minicurso-risco-credito/"
-     target="_blank"
-     class="download-card"
-     data-goatcounter-click="acesso-minicurso-risco-credito"
-     data-goatcounter-title="Minicurso — Introdução à Modelagem de Risco de Crédito">
-    <span class="download-icon">💳</span>
-    <span class="download-text">
-      <strong>Minicurso - Introdução à Modelagem de Risco de Crédito</strong>
-      <small>Apresentações, notebooks e materiais de apoio</small>
-    </span>
-  </a>
-  <a href="SEMEP_Ciencia_de_Dados_na_Pesca_e_Aquicultura.pdf"
-target="_blank"
-class="download-card"
-data-goatcounter-click="download-semep-ciencia-dados-pesca-aquicultura"
-data-goatcounter-title="SEMEP - Ciência de Dados na Pesca e Aquicultura"> <span class="download-icon">📄</span> <span class="download-text"> <strong>Apresentação — Ciência de Dados na Pesca e Aquicultura</strong> <small>SEMEP — Ciência de Dados na Pesca e Aquicultura</small> </span> </a>
+<a href="CONBEP_Storytelling_com_Dados.pdf"
+  target="_blank"
+  class="download-card"
+  data-goatcounter-click="download-conbep-storytelling-com-dados"
+  data-goatcounter-title="CONBEP - Storytelling com Dados"> <span class="download-icon">📄</span> <span class="download-text"> <strong>Apresentação</strong> <small>CONBEP — Storytelling com Dados</small> </span> </a>
 </div>
 
 </div>
 </div>
-
 
 </div>
 
@@ -118,21 +103,40 @@ Promover a participação feminina em Estatística, Ciência de Dados e áreas S
 
 <div class="project-card project-extensao">
 <div class="project-title">
-<span class="project-icon">📊</span>
-Storytelling com Dados
+<span class="project-icon">🧩</span>
+Letramento, Raciocínio e Pensamento Estatístico
 </div>
+<div class="project-desc">
+Esta iniciativa busca desenvolver competências fundamentais para a compreensão, interpretação e uso crítico de informações estatísticas. As atividades exploram como dados, contexto e incerteza contribuem para a construção de argumentos, a avaliação de evidências e a tomada de decisões em diferentes situações do cotidiano.
+</div>
+</div>
+
+<div class="project-card project-extensao">
+<div class="project-title">
+<span class="project-icon">🏅</span>
+Jovens Atletas da Olimpíada Brasileira de Estatística
+</div>
+
 <div class="project-link">
 📂 Recursos e produtos disponíveis
 </div>
+
 <div class="project-desc">
-O projeto tem como objetivo investigar e difundir estratégias de comunicação de dados e resultados estatísticos para diferentes públicos, explorando princípios de visualização, narrativa e interpretação de evidências. As atividades contemplam desde a construção de gráficos e painéis até o desenvolvimento de histórias orientadas por dados, buscando transformar análises quantitativas em mensagens claras, acessíveis e relevantes para a tomada de decisão. Também são exploradas ferramentas de inteligência artificial como apoio ao processo de comunicação, sempre com ênfase na curadoria e no julgamento crítico do analista.
+Esta iniciativa busca ampliar a participação de estudantes na Olimpíada Brasileira de Estatística (OBE), promovendo ações de divulgação, orientação e acompanhamento dos participantes. A proposta visa estimular o interesse pela Estatística e pela Ciência de Dados, fortalecer o raciocínio quantitativo e desenvolver competências analíticas, criativas e colaborativas, contribuindo para a formação de jovens talentos e para o protagonismo estudantil.
+
 <div class="project-downloads">
   <div class="downloads-title">📂 Recursos e produtos disponíveis</div>
-<a href="CONBEP_Storytelling_com_Dados.pdf"
-  target="_blank"
-  class="download-card"
-  data-goatcounter-click="download-conbep-storytelling-com-dados"
-  data-goatcounter-title="CONBEP - Storytelling com Dados"> <span class="download-icon">📄</span> <span class="download-text"> <strong>Apresentação</strong> <small>CONBEP — Storytelling com Dados</small> </span> </a>
+
+  <a href="https://obe.icmc.usp.br/"
+     target="_blank"
+     class="download-card"
+     data-goatcounter-click="acesso-obe"
+     data-goatcounter-title="Olimpíada Brasileira de Estatística">
+    <span class="download-icon">🏅</span>
+    <span class="download-text"><strong>Olimpíada Brasileira de Estatística</strong>
+      <small>Site oficial da OBE</small>
+    </span>
+  </a>
 </div>
 
 </div>
@@ -140,11 +144,38 @@ O projeto tem como objetivo investigar e difundir estratégias de comunicação 
 
 <div class="project-card project-extensao">
 <div class="project-title">
-<span class="project-icon">🧩</span>
-Letramento, Raciocínio e Pensamento Estatístico
+<span class="project-icon">📢</span>
+Formação e Cultura de Dados para a Sociedade
 </div>
+
+<div class="project-link">
+📂 Recursos e produtos disponíveis
+</div>
+
 <div class="project-desc">
-Esta iniciativa busca desenvolver competências fundamentais para a compreensão, interpretação e uso crítico de informações estatísticas. As atividades exploram como dados, contexto e incerteza contribuem para a construção de argumentos, a avaliação de evidências e a tomada de decisões em diferentes situações do cotidiano.
+<p>Esta iniciativa promove a formação e a cultura de dados por meio de palestras, minicursos, apresentações e materiais de divulgação científica. As atividades exploram aplicações da Estatística e da Ciência de Dados em diferentes contextos, contribuindo para a disseminação do conhecimento, a formação continuada e o fortalecimento do diálogo entre Universidade e sociedade.</p>
+
+<div class="project-downloads">
+  <div class="downloads-title">📂 Recursos e produtos disponíveis</div>
+
+  <a href="https://statlab-oficial.github.io/minicurso-risco-credito/"
+     target="_blank"
+     class="download-card"
+     data-goatcounter-click="acesso-minicurso-risco-credito"
+     data-goatcounter-title="Minicurso — Introdução à Modelagem de Risco de Crédito">
+    <span class="download-icon">💳</span>
+    <span class="download-text">
+      <strong>Minicurso - Introdução à Modelagem de Risco de Crédito</strong>
+      <small>Apresentações, notebooks e materiais de apoio</small>
+    </span>
+  </a>
+  <a href="SEMEP_Ciencia_de_Dados_na_Pesca_e_Aquicultura.pdf"
+target="_blank"
+class="download-card"
+data-goatcounter-click="download-semep-ciencia-dados-pesca-aquicultura"
+data-goatcounter-title="SEMEP - Ciência de Dados na Pesca e Aquicultura"> <span class="download-icon">📄</span> <span class="download-text"> <strong>Apresentação — Ciência de Dados na Pesca e Aquicultura</strong> <small>SEMEP — Ciência de Dados na Pesca e Aquicultura</small> </span> </a>
+</div>
+
 </div>
 </div>
 
