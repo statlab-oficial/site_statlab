@@ -26,10 +26,21 @@ document.addEventListener("DOMContentLoaded", function() {
 ### Laboratório de Inovação em Estatística 
 
 <span style="color:#6B7280; font-size:0.95em;">
-O StatLab integra ensino, pesquisa e extensão, promovendo a aplicação da Estatística e da Ciência de Dados em problemas reais por meio de ações de capacitação, consultoria e divulgação científica voltadas à sociedade.(2 bolsistas, 15 agentes de extensão)
+O StatLab integra ensino, pesquisa e extensão, promovendo a aplicação da Estatística e da Ciência de Dados em problemas reais por meio de ações de capacitação, consultoria e divulgação científica voltadas à sociedade. (2 bolsistas, 15 agentes de extensão)
 </span>
 
 <div class="projects-grid">
+
+
+<div class="project-card project-extensao">
+<div class="project-title">
+<span class="project-icon">🐾</span>
+Dados que Cuidam: Estatística e Ciência de Dados para o Bem-Estar Animal
+</div>
+<div class="project-desc">
+Esta iniciativa desenvolve ações voltadas à aplicação da Estatística e da Ciência de Dados em temas relacionados à saúde, ao comportamento e ao bem-estar de cães e gatos. Realizada em parceria com o projeto de extensão MiauAmigos da UFC, a ação busca produzir informações que auxiliem na conscientização, no planejamento de intervenções e na promoção da qualidade de vida animal.
+</div>
+</div>
 
 <div class="project-card project-extensao">
 <div class="project-title">
@@ -51,7 +62,7 @@ Formação e Cultura de Dados para a Sociedade
      target="_blank"
      class="download-card"
      data-goatcounter-click="acesso-minicurso-risco-credito"
-     data-goatcounter-title="Minicurso - Introdução à Modelagem de Risco de Crédito">
+     data-goatcounter-title="Minicurso — Introdução à Modelagem de Risco de Crédito">
     <span class="download-icon">💳</span>
     <span class="download-text">
       <strong>Minicurso - Introdução à Modelagem de Risco de Crédito</strong>
@@ -74,10 +85,36 @@ data-goatcounter-title="SEMEP - Ciência de Dados na Pesca e Aquicultura"> <span
 ### Cultura de Dados e Extensão Universitária: integrando formação acadêmica e impacto social
 
 <span style="color:#6B7280; font-size:0.95em;">
-A ação fortalece a formação estudantil e a divulgação da Estatística e Ciência de Dados por meio de ações de extensão, favorecendo a construção de espaços de saberes e práticas entre Universidade e sociedade.(2 bolsistas, 15 agentes de extensão)
+A ação fortalece a formação estudantil e a divulgação da Estatística e Ciência de Dados por meio de ações de extensão, favorecendo a construção de espaços de saberes e práticas entre Universidade e sociedade. (2 bolsistas, 15 agentes de extensão)
 </span>
 
 <div class="projects-grid">
+
+<div class="project-card project-extensao">
+<div class="project-title">
+<span class="project-icon">👩</span>
+Mulheres na Estatística e Ciência de Dados
+</div>
+<div class="project-link">
+📂 Recursos e produtos disponíveis
+</div>
+<div class="project-desc">
+Promover a participação feminina em Estatística, Ciência de Dados e áreas STEAM por meio de palestras, oficinas, campanhas e ações de divulgação científica. A iniciativa busca dar visibilidade às contribuições históricas e contemporâneas de mulheres na produção do conhecimento, estimulando o protagonismo feminino, a formação de novas lideranças e a construção de referências para futuras gerações.
+<div class="project-downloads">
+  <div class="downloads-title">📂 Recursos e produtos disponíveis</div>
+  <a href="Arquitetura_dos_Dados_Legado_Feminino.pdf"
+     target="_blank"
+     class="download-card"
+     data-goatcounter-click="download-arquitetura-dos-dados-legado-feminino"
+     data-goatcounter-title="A Arquitetura dos Dados - O Legado Feminino">
+    <span class="download-icon">📄</span>
+    <span class="download-text">
+      <strong>Apresentação</strong>
+      <small>A Arquitetura dos Dados: O Legado Feminino</small></span></a>
+</div>
+
+</div>
+</div>
 
 <div class="project-card project-extensao">
 <div class="project-title">
@@ -104,10 +141,10 @@ O projeto tem como objetivo investigar e difundir estratégias de comunicação 
 <div class="project-card project-extensao">
 <div class="project-title">
 <span class="project-icon">🧩</span>
-Além das fórmulas: você utiliza o pensamento estatístico?
+Letramento, Raciocínio e Pensamento Estatístico
 </div>
 <div class="project-desc">
-Este minicurso propõe uma reflexão sobre o pensamento estatístico para além do domínio operacional de fórmulas e cálculos. A proposta é explorar como lógica, contexto e incerteza se articulam na compreensão de problemas do mundo real, sem o uso de linguagens de programação como R ou Python, valorizando a interpretação e a tomada de decisão fundamentada.
+Esta iniciativa busca desenvolver competências fundamentais para a compreensão, interpretação e uso crítico de informações estatísticas. As atividades exploram como dados, contexto e incerteza contribuem para a construção de argumentos, a avaliação de evidências e a tomada de decisões em diferentes situações do cotidiano.
 </div>
 </div>
 
