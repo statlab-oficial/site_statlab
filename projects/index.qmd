@@ -77,7 +77,7 @@ A ação fortalece a formação estudantil e a divulgação da Estatística e Ci
 
 <div class="project-card project-extensao">
 <div class="project-title">
-<span class="project-icon">👩</span>
+<span class="project-icon">👩‍💻</span>
 Mulheres na Estatística e Ciência de Dados
 </div>
 <div class="project-link">
@@ -122,7 +122,7 @@ Jovens Atletas da Olimpíada Brasileira de Estatística
 </div>
 
 <div class="project-desc">
-Esta iniciativa busca ampliar a participação de estudantes na Olimpíada Brasileira de Estatística (OBE), promovendo ações de divulgação, orientação e acompanhamento dos participantes. A proposta visa estimular o interesse pela Estatística e pela Ciência de Dados, fortalecer o raciocínio quantitativo e desenvolver competências analíticas, criativas e colaborativas, contribuindo para a formação de jovens talentos e para o protagonismo estudantil.
+Esta iniciativa busca ampliar a participação de estudantes na Olimpíada Brasileira de Estatística (OBE), promovendo ações de divulgação, orientação e acompanhamento dos participantes. A proposta visa estimular o interesse pela Estatística e pela Ciência de Dados, fortalecer o raciocínio quantitativo e desenvolver competências analíticas, criativas e colaborativas, contribuindo para a formação de jovens talentos e para o protagonismo estudantil. </p>
 
 <div class="project-downloads">
   <div class="downloads-title">📂 Recursos e produtos disponíveis</div>
@@ -196,7 +196,7 @@ Técnicas de Storytelling no Ensino de Estatística
 📂 Recursos e produtos disponíveis
 </div>
 <div class="project-desc">
-O projeto tem como objetivo investigar e difundir estratégias de comunicação de dados e resultados estatísticos para diferentes públicos, explorando princípios de visualização, narrativa e interpretação de evidências. As atividades contemplam desde a construção de gráficos e painéis até o desenvolvimento de histórias orientadas por dados, buscando transformar análises quantitativas em mensagens claras, acessíveis e relevantes para a tomada de decisão. Também são exploradas ferramentas de inteligência artificial como apoio ao processo de comunicação, sempre com ênfase na curadoria e no julgamento crítico do analista.
+O projeto promove a comunicação de dados e resultados estatísticos para diferentes públicos por meio de visualizações, narrativas e estratégias de divulgação científica. As atividades buscam transformar análises quantitativas em mensagens claras, acessíveis e relevantes para a tomada de decisão.
 <div class="project-downloads">
   <div class="downloads-title">📂 Recursos e produtos disponíveis</div>
 <a href="https://drive.google.com/file/d/17Eax0VKiYprEpV77hnW7kTAn1zZlJFlB/view?usp=sharing"
