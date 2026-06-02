@@ -55,7 +55,7 @@ Storytelling com Dados
 O projeto tem como objetivo investigar e difundir estratégias de comunicação de dados e resultados estatísticos para diferentes públicos, explorando princípios de visualização, narrativa e interpretação de evidências. As atividades contemplam desde a construção de gráficos e painéis até o desenvolvimento de histórias orientadas por dados, buscando transformar análises quantitativas em mensagens claras, acessíveis e relevantes para a tomada de decisão. Também são exploradas ferramentas de inteligência artificial como apoio ao processo de comunicação, sempre com ênfase na curadoria e no julgamento crítico do analista.
 <div class="project-downloads">
   <div class="downloads-title">📂 Recursos e produtos disponíveis</div>
-<a href="CONBEP_Storytelling_com_Dados.pdf"
+<a href="https://drive.google.com/file/d/17Eax0VKiYprEpV77hnW7kTAn1zZlJFlB/view?usp=sharing"
   target="_blank"
   class="download-card"
   data-goatcounter-click="download-conbep-storytelling-com-dados"
@@ -87,7 +87,7 @@ Mulheres na Estatística e Ciência de Dados
 Promover a participação feminina em Estatística, Ciência de Dados e áreas STEAM por meio de palestras, oficinas, campanhas e ações de divulgação científica. A iniciativa busca dar visibilidade às contribuições históricas e contemporâneas de mulheres na produção do conhecimento, estimulando o protagonismo feminino, a formação de novas lideranças e a construção de referências para futuras gerações.
 <div class="project-downloads">
   <div class="downloads-title">📂 Recursos e produtos disponíveis</div>
-  <a href="Arquitetura_dos_Dados_Legado_Feminino.pdf"
+  <a href="https://drive.google.com/file/d/1c3umsPWpGK9dCiHElRVrNP6HsjLmQ22H/view?usp=sharing"
      target="_blank"
      class="download-card"
      data-goatcounter-click="download-arquitetura-dos-dados-legado-feminino"
@@ -169,11 +169,11 @@ Formação e Cultura de Dados para a Sociedade
       <small>Apresentações, notebooks e materiais de apoio</small>
     </span>
   </a>
-  <a href="SEMEP_Ciencia_de_Dados_na_Pesca_e_Aquicultura.pdf"
-target="_blank"
-class="download-card"
-data-goatcounter-click="download-semep-ciencia-dados-pesca-aquicultura"
-data-goatcounter-title="SEMEP - Ciência de Dados na Pesca e Aquicultura"> <span class="download-icon">📄</span> <span class="download-text"> <strong>Apresentação — Ciência de Dados na Pesca e Aquicultura</strong> <small>SEMEP — Ciência de Dados na Pesca e Aquicultura</small> </span> </a>
+  <a href="https://drive.google.com/file/d/13M0wHpnsCfdHa1xHKRmTBQqvXUI1qfNr/view?usp=sharing"
+     target="_blank"
+     class="download-card"
+     data-goatcounter-click="download-semep-ciencia-dados-pesca-aquicultura"
+     data-goatcounter-title="SEMEP - Ciência de Dados na Pesca e Aquicultura"> <span class="download-icon">📄</span> <span class="download-text"> <strong>Apresentação — Ciência de Dados na Pesca e Aquicultura</strong> <small>SEMEP — Ciência de Dados na Pesca e Aquicultura</small> </span> </a>
 </div>
 
 </div>
@@ -199,7 +199,7 @@ Técnicas de Storytelling no Ensino de Estatística
 O projeto tem como objetivo investigar e difundir estratégias de comunicação de dados e resultados estatísticos para diferentes públicos, explorando princípios de visualização, narrativa e interpretação de evidências. As atividades contemplam desde a construção de gráficos e painéis até o desenvolvimento de histórias orientadas por dados, buscando transformar análises quantitativas em mensagens claras, acessíveis e relevantes para a tomada de decisão. Também são exploradas ferramentas de inteligência artificial como apoio ao processo de comunicação, sempre com ênfase na curadoria e no julgamento crítico do analista.
 <div class="project-downloads">
   <div class="downloads-title">📂 Recursos e produtos disponíveis</div>
-<a href="CONBEP_Storytelling_com_Dados.pdf"
+<a href="https://drive.google.com/file/d/17Eax0VKiYprEpV77hnW7kTAn1zZlJFlB/view?usp=sharing"
   target="_blank"
   class="download-card"
   data-goatcounter-click="download-conbep-storytelling-com-dados"
@@ -261,7 +261,7 @@ O projeto tem como foco auxiliar no acompanhamento dos estoques pesqueiros das l
 <div class="project-downloads">
   <div class="downloads-title">📂 Recursos e produtos disponíveis</div>
 
-  <a href="cota_de_captura_abril_2026.pdf"
+  <a href="https://drive.google.com/file/d/1NcX11cSvG6BFoGXLKh7qaCY9wRUaD54r/view?usp=sharing"
      target="_blank"
      class="download-card"
      data-goatcounter-click="download-cota-captura-lagosta-abril-2026"
