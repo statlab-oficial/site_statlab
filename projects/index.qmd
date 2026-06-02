@@ -45,7 +45,7 @@ Esta iniciativa desenvolve ações voltadas à aplicação da Estatística e da 
 <div class="project-card project-extensao">
 <div class="project-title">
 <span class="project-icon">🏫</span>
-Tecnologias Educacionais para a Comunidade
+Tecnologias Educacionais para a Sociedadade
 </div>
 <div class="project-desc">
 Esta iniciativa promove o desenvolvimento e a aplicação de tecnologias educacionais voltadas às necessidades de escolas e comunidades. Por meio de plataformas digitais, recursos interativos, inteligência artificial e ferramentas de apoio à aprendizagem, busca ampliar oportunidades de formação, democratizar o acesso ao conhecimento e fortalecer a interação entre Universidade e sociedade.
