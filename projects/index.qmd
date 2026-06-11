@@ -168,6 +168,13 @@ Formação e Cultura de Dados para a Sociedade
 <div class="project-downloads">
   <div class="downloads-title">📂 Recursos e produtos disponíveis</div>
 
+  <a href="https://drive.google.com/file/d/1WuSDc60gHK6TsvMDZ3MmCEuuXADY4JcG/view?usp=sharing"
+     target="_blank"
+     class="download-card"
+     data-goatcounter-click="download-apresentacao-statlab-feira-profissoes"
+     data-goatcounter-title="Apresentação - Laboratório de Inovação em Estatística"> <span class="download-icon">💡</span> <span class="download-text"> <strong>Laboratório de Inovação em Estatística</strong> <small>Apresentação — Laboratório de Inovação em Estatística</small> 
+     </span> 
+     </a>
   <a href="https://statlab-oficial.github.io/minicurso-risco-credito/"
      target="_blank"
      class="download-card"
@@ -175,7 +182,7 @@ Formação e Cultura de Dados para a Sociedade
      data-goatcounter-title="Minicurso — Introdução à Modelagem de Risco de Crédito">
     <span class="download-icon">💳</span>
     <span class="download-text">
-      <strong>Minicurso - Introdução à Modelagem de Risco de Crédito</strong>
+      <strong>Introdução à Modelagem de Risco de Crédito</strong>
       <small>Apresentações, notebooks e materiais de apoio</small>
     </span>
   </a>
@@ -183,7 +190,7 @@ Formação e Cultura de Dados para a Sociedade
      target="_blank"
      class="download-card"
      data-goatcounter-click="download-semep-ciencia-dados-pesca-aquicultura"
-     data-goatcounter-title="SEMEP - Ciência de Dados na Pesca e Aquicultura"> <span class="download-icon">📄</span> <span class="download-text"> <strong>Apresentação — Ciência de Dados na Pesca e Aquicultura</strong> <small>SEMEP — Ciência de Dados na Pesca e Aquicultura</small> </span> </a>
+     data-goatcounter-title="SEMEP - Ciência de Dados na Pesca e Aquicultura"> <span class="download-icon">📄</span> <span class="download-text"> <strong>Ciência de Dados na Pesca e Aquicultura</strong> <small>SEMEP — Ciência de Dados na Pesca e Aquicultura</small> </span> </a>
 </div>
 
 </div>
