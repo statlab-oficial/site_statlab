@@ -3,14 +3,17 @@ title: ""
 callout-icon: false
 ---
 
-::: {.bloco-destaque}
+::: bloco-destaque
 ## Projetos e Ações
 
 <p id="para2">
+
 O StatLab desenvolve *projetos e ações que integram extensão, ensino e pesquisa*, com foco na aplicação da Estatística e da Ciência de Dados para a solução de problemas reais. As iniciativas refletem o compromisso do laboratório com a geração de conhecimento, a formação qualificada e o impacto social.
+
 </p>
 :::
 
+```{=html}
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   document.querySelectorAll(".project-card").forEach(card => {
@@ -20,413 +23,400 @@ document.addEventListener("DOMContentLoaded", function() {
   });
 });
 </script>
+```
 
 ## 🌍 Extensão
 
-### Laboratório de Inovação em Estatística 
+### Laboratório de Inovação em Estatística
 
-<span style="color:#6B7280; font-size:0.95em;">
-O StatLab integra ensino, pesquisa e extensão, promovendo a aplicação da Estatística e da Ciência de Dados em problemas reais por meio de ações de capacitação, consultoria e divulgação científica voltadas à sociedade. (2 bolsistas, 15 agentes de extensão)
-</span>
+[ O StatLab integra ensino, pesquisa e extensão, promovendo a aplicação da Estatística e da Ciência de Dados em problemas reais por meio de ações de capacitação, consultoria e divulgação científica voltadas à sociedade. (2 bolsistas, 15 agentes de extensão) ]{style="color:#6B7280; font-size:0.95em;"}
 
-<div class="projects-grid">
+::::::::::::::: projects-grid
+::::: {.project-card .project-extensao}
+::: project-title
+[🐾]{.project-icon} Dados que Cuidam: Estatística e Ciência de Dados para o Bem-Estar Animal
+:::
 
-
-<div class="project-card project-extensao">
-<div class="project-title">
-<span class="project-icon">🐾</span>
-Dados que Cuidam: Estatística e Ciência de Dados para o Bem-Estar Animal
-</div>
-<div class="project-desc">
+::: project-desc
 Esta iniciativa desenvolve ações voltadas à aplicação da Estatística e da Ciência de Dados em temas relacionados à saúde, ao comportamento e ao bem-estar de cães e gatos. Realizada em parceria com o projeto de extensão MiauAmigos da UFC, a ação busca produzir informações que auxiliem na conscientização, no planejamento de intervenções e na promoção da qualidade de vida animal.
-</div>
-</div>
+:::
+:::::
 
-<div class="project-card project-extensao">
-<div class="project-title">
-<span class="project-icon">🏫</span>
-Tecnologias Educacionais para a Sociedadade
-</div>
-<div class="project-desc">
+::::: {.project-card .project-extensao}
+::: project-title
+[🏫]{.project-icon} Tecnologias Educacionais para a Sociedadade
+:::
+
+::: project-desc
 Esta iniciativa promove o desenvolvimento e a aplicação de tecnologias educacionais voltadas às necessidades de escolas e comunidades. Por meio de plataformas digitais, recursos interativos, inteligência artificial e ferramentas de apoio à aprendizagem, busca ampliar oportunidades de formação, democratizar o acesso ao conhecimento e fortalecer a interação entre Universidade e sociedade.
-</div>
-</div>
+:::
+:::::
 
+:::::::: {.project-card .project-extensao}
+::: project-title
+[📊]{.project-icon} Storytelling com Dados
+:::
 
-<div class="project-card project-extensao">
-<div class="project-title">
-<span class="project-icon">📊</span>
-Storytelling com Dados
-</div>
-<div class="project-link">
+::: project-link
 📂 Recursos e produtos disponíveis
-</div>
-<div class="project-desc">
+:::
+
+::::: project-desc
 O projeto tem como objetivo investigar e difundir estratégias de comunicação de dados e resultados estatísticos para diferentes públicos, explorando princípios de visualização, narrativa e interpretação de evidências. As atividades contemplam desde a construção de gráficos e painéis até o desenvolvimento de histórias orientadas por dados, buscando transformar análises quantitativas em mensagens claras, acessíveis e relevantes para a tomada de decisão. Também são exploradas ferramentas de inteligência artificial como apoio ao processo de comunicação, sempre com ênfase na curadoria e no julgamento crítico do analista.
-<div class="project-downloads">
-  <div class="downloads-title">📂 Recursos e produtos disponíveis</div>
+
+:::: project-downloads
+::: downloads-title
+📂 Recursos e produtos disponíveis
+:::
+
 <a href="https://drive.google.com/file/d/17Eax0VKiYprEpV77hnW7kTAn1zZlJFlB/view?usp=sharing"
   target="_blank"
   class="download-card"
   data-goatcounter-click="download-conbep-storytelling-com-dados"
-  data-goatcounter-title="CONBEP - Storytelling com Dados"> <span class="download-icon">📄</span> <span class="download-text"> <strong>Apresentação</strong> <small>CONBEP — Storytelling com Dados</small> </span> </a>
-</div>
-
-</div>
-</div>
-
-</div>
+  data-goatcounter-title="CONBEP - Storytelling com Dados"> [📄]{.download-icon} [ <strong>Apresentação</strong> <small>CONBEP — Storytelling com Dados</small> ]{.download-text} </a>
+::::
+:::::
+::::::::
+:::::::::::::::
 
 ### Cultura de Dados e Extensão Universitária: integrando formação acadêmica e impacto social
 
-<span style="color:#6B7280; font-size:0.95em;">
-A ação fortalece a formação estudantil e a divulgação da Estatística e Ciência de Dados por meio de ações de extensão, favorecendo a construção de espaços de saberes e práticas entre Universidade e sociedade. (2 bolsistas, 15 agentes de extensão)
-</span>
+[ A ação fortalece a formação estudantil e a divulgação da Estatística e Ciência de Dados por meio de ações de extensão, favorecendo a construção de espaços de saberes e práticas entre Universidade e sociedade. (2 bolsistas, 15 agentes de extensão) ]{style="color:#6B7280; font-size:0.95em;"}
 
-<div class="projects-grid">
+:::::::::::::::::::::::: projects-grid
+:::::::: {.project-card .project-extensao}
+::: project-title
+[👩‍💻]{.project-icon} Mulheres na Estatística e Ciência de Dados
+:::
 
-<div class="project-card project-extensao">
-<div class="project-title">
-<span class="project-icon">👩‍💻</span>
-Mulheres na Estatística e Ciência de Dados
-</div>
-<div class="project-link">
+::: project-link
 📂 Recursos e produtos disponíveis
-</div>
-<div class="project-desc">
+:::
+
+::::: project-desc
 Promover a participação feminina em Estatística, Ciência de Dados e áreas STEAM por meio de palestras, oficinas, campanhas e ações de divulgação científica. A iniciativa busca dar visibilidade às contribuições históricas e contemporâneas de mulheres na produção do conhecimento, estimulando o protagonismo feminino, a formação de novas lideranças e a construção de referências para futuras gerações.
-<div class="project-downloads">
-  <div class="downloads-title">📂 Recursos e produtos disponíveis</div>
-  <a href="https://drive.google.com/file/d/1c3umsPWpGK9dCiHElRVrNP6HsjLmQ22H/view?usp=sharing"
+
+:::: project-downloads
+::: downloads-title
+📂 Recursos e produtos disponíveis
+:::
+
+<a href="https://drive.google.com/file/d/1c3umsPWpGK9dCiHElRVrNP6HsjLmQ22H/view?usp=sharing"
      target="_blank"
      class="download-card"
      data-goatcounter-click="download-arquitetura-dos-dados-legado-feminino"
-     data-goatcounter-title="A Arquitetura dos Dados - O Legado Feminino">
-    <span class="download-icon">📄</span>
-    <span class="download-text">
-      <strong>Apresentação</strong>
-      <small>A Arquitetura dos Dados: O Legado Feminino</small></span></a>
-</div>
+     data-goatcounter-title="A Arquitetura dos Dados - O Legado Feminino"> [📄]{.download-icon} [ <strong>Apresentação</strong> <small>A Arquitetura dos Dados: O Legado Feminino</small>]{.download-text}</a>
+::::
+:::::
+::::::::
 
-</div>
-</div>
+::::: {.project-card .project-extensao}
+::: project-title
+[🧩]{.project-icon} Letramento, Raciocínio e Pensamento Estatístico
+:::
 
-<div class="project-card project-extensao">
-<div class="project-title">
-<span class="project-icon">🧩</span>
-Letramento, Raciocínio e Pensamento Estatístico
-</div>
-<div class="project-desc">
+::: project-desc
 Esta iniciativa busca desenvolver competências fundamentais para a compreensão, interpretação e uso crítico de informações estatísticas. As atividades exploram como dados, contexto e incerteza contribuem para a construção de argumentos, a avaliação de evidências e a tomada de decisões em diferentes situações do cotidiano.
-</div>
-</div>
+:::
+:::::
 
-<div class="project-card project-extensao">
-<div class="project-title">
-<span class="project-icon">🏅</span>
-Jovens Atletas da Olimpíada Brasileira de Estatística
-</div>
+:::::::: {.project-card .project-extensao}
+::: project-title
+[🏅]{.project-icon} Jovens Atletas da Olimpíada Brasileira de Estatística
+:::
 
-<div class="project-link">
+::: project-link
 📂 Recursos e produtos disponíveis
-</div>
+:::
 
-<div class="project-desc">
-Esta iniciativa busca ampliar a participação de estudantes na Olimpíada Brasileira de Estatística (OBE), promovendo ações de divulgação, orientação e acompanhamento dos participantes. A proposta visa estimular o interesse pela Estatística e pela Ciência de Dados, fortalecer o raciocínio quantitativo e desenvolver competências analíticas, criativas e colaborativas, contribuindo para a formação de jovens talentos e para o protagonismo estudantil. </p>
+::::: project-desc
+Esta iniciativa busca ampliar a participação de estudantes na Olimpíada Brasileira de Estatística (OBE), promovendo ações de divulgação, orientação e acompanhamento dos participantes. A proposta visa estimular o interesse pela Estatística e pela Ciência de Dados, fortalecer o raciocínio quantitativo e desenvolver competências analíticas, criativas e colaborativas, contribuindo para a formação de jovens talentos e para o protagonismo estudantil.
 
-<div class="project-downloads">
-  <div class="downloads-title">📂 Recursos e produtos disponíveis</div>
+</p>
 
-  <a href="https://obe.icmc.usp.br/"
+:::: project-downloads
+::: downloads-title
+📂 Recursos e produtos disponíveis
+:::
+
+<a href="https://obe.icmc.usp.br/"
      target="_blank"
      class="download-card"
      data-goatcounter-click="acesso-obe"
-     data-goatcounter-title="Olimpíada Brasileira de Estatística">
-    <span class="download-icon">🏅</span>
-    <span class="download-text"><strong>Olimpíada Brasileira de Estatística</strong>
-      <small>Site oficial da OBE</small>
-    </span>
-  </a>
-</div>
+     data-goatcounter-title="Olimpíada Brasileira de Estatística"> [🏅]{.download-icon} [<strong>Olimpíada Brasileira de Estatística</strong> <small>Site oficial da OBE</small> ]{.download-text} </a>
+::::
+:::::
+::::::::
 
-</div>
-</div>
+:::::::: {.project-card .project-extensao}
+::: project-title
+[📢]{.project-icon} Formação e Cultura de Dados para a Sociedade
+:::
 
-<div class="project-card project-extensao">
-<div class="project-title">
-<span class="project-icon">📢</span>
-Formação e Cultura de Dados para a Sociedade
-</div>
-
-<div class="project-link">
+::: project-link
 📂 Recursos e produtos disponíveis
-</div>
+:::
 
-<div class="project-desc">
+::::: project-desc
 <p>Esta iniciativa promove a formação e a cultura de dados por meio de palestras, minicursos, apresentações e materiais de divulgação científica. As atividades exploram aplicações da Estatística e da Ciência de Dados em diferentes contextos, contribuindo para a disseminação do conhecimento, a formação continuada e o fortalecimento do diálogo entre Universidade e sociedade.</p>
 
-<div class="project-downloads">
-  <div class="downloads-title">📂 Recursos e produtos disponíveis</div>
+:::: project-downloads
+::: downloads-title
+📂 Recursos e produtos disponíveis
+:::
 
-  <a href="https://drive.google.com/file/d/1WuSDc60gHK6TsvMDZ3MmCEuuXADY4JcG/view?usp=sharing"
+<a href="https://drive.google.com/file/d/1WuSDc60gHK6TsvMDZ3MmCEuuXADY4JcG/view?usp=sharing"
      target="_blank"
      class="download-card"
      data-goatcounter-click="download-apresentacao-statlab-feira-profissoes"
-     data-goatcounter-title="Apresentação - Laboratório de Inovação em Estatística"> <span class="download-icon">💡</span> <span class="download-text"> <strong>Laboratório de Inovação em Estatística</strong> <small>Apresentação — Laboratório de Inovação em Estatística</small> 
-     </span> 
-     </a>
-  <a href="https://statlab-oficial.github.io/minicurso-risco-credito/"
+     data-goatcounter-title="Apresentação - Laboratório de Inovação em Estatística"> [💡]{.download-icon} [ <strong>Laboratório de Inovação em Estatística</strong> <small>Apresentação — Laboratório de Inovação em Estatística</small> ]{.download-text} </a> <a href="https://statlab-oficial.github.io/minicurso-risco-credito/"
      target="_blank"
      class="download-card"
      data-goatcounter-click="acesso-minicurso-risco-credito"
-     data-goatcounter-title="Minicurso — Introdução à Modelagem de Risco de Crédito">
-    <span class="download-icon">💳</span>
-    <span class="download-text">
-      <strong>Introdução à Modelagem de Risco de Crédito</strong>
-      <small>Apresentações, notebooks e materiais de apoio</small>
-    </span>
-  </a>
-  <a href="https://drive.google.com/file/d/13M0wHpnsCfdHa1xHKRmTBQqvXUI1qfNr/view?usp=sharing"
+     data-goatcounter-title="Minicurso — Introdução à Modelagem de Risco de Crédito"> [💳]{.download-icon} [ <strong>Introdução à Modelagem de Risco de Crédito</strong> <small>Apresentações, notebooks e materiais de apoio</small> ]{.download-text} </a> <a href="https://drive.google.com/file/d/13M0wHpnsCfdHa1xHKRmTBQqvXUI1qfNr/view?usp=sharing"
      target="_blank"
      class="download-card"
      data-goatcounter-click="download-semep-ciencia-dados-pesca-aquicultura"
-     data-goatcounter-title="SEMEP - Ciência de Dados na Pesca e Aquicultura"> <span class="download-icon">📄</span> <span class="download-text"> <strong>Ciência de Dados na Pesca e Aquicultura</strong> <small>SEMEP — Ciência de Dados na Pesca e Aquicultura</small> </span> </a>
-</div>
-
-</div>
-</div>
-
-</div>
+     data-goatcounter-title="SEMEP - Ciência de Dados na Pesca e Aquicultura"> [📄]{.download-icon} [ <strong>Ciência de Dados na Pesca e Aquicultura</strong> <small>SEMEP — Ciência de Dados na Pesca e Aquicultura</small> ]{.download-text} </a>
+::::
+:::::
+::::::::
+::::::::::::::::::::::::
 
 ## 🎓 Ensino
 
 ### Projetos Ativos
 
-<div class="projects-grid">
+::::::::: projects-grid
 
-<div class="project-card project-ensino">
-<div class="project-title">
-<span class="project-icon">📊</span>
-Técnicas de Storytelling no Ensino de Estatística
-</div>
-<div class="project-link">
+
+:::::::: {.project-card .project-ensino}
+::: project-title
+[📘]{.project-icon} Closed Caption Estatística
+:::
+
+::: project-link
+📂 Publicações da coleção
+:::
+
+::::: project-desc
+A coleção Closed Caption Estatística reúne publicações didáticas voltadas à compreensão e à aplicação de técnicas estatísticas em diferentes áreas do conhecimento. Organizada em séries temáticas, cada volume acompanha uma investigação, desde a contextualização do fenômeno e a compreensão dos dados até a análise, a interpretação e a comunicação científica dos resultados. A proposta valoriza a colaboração interdisciplinar e utiliza quadros explicativos Closed Caption para tornar conceitos técnicos mais acessíveis e aproximar a Estatística de situações concretas.
+
+:::: project-downloads
+::: downloads-title
+📂 Volumes disponíveis
+:::
+
+<a href="https://drive.google.com/file/d/1JUCT311HwUmlJcxEWKiBr_wXAInakvxs/view?usp=sharing"
+  target="_blank"
+  class="download-card"
+  data-goatcounter-click="download-closed-caption-serie-01-volume-01"
+  data-goatcounter-title="Closed Caption Estatística - Série 01 - Volume 01">
+  [📘]{.download-icon} [ <strong>Análise de Correspondência — O emprego formal no Brasil</strong> <small>Série 01 · Ciências Sociais · Volume 01</small> ]{.download-text}
+</a>
+::::
+:::::
+::::::::
+
+
+:::::::: {.project-card .project-ensino}
+::: project-title
+[📊]{.project-icon} Técnicas de Storytelling no Ensino de Estatística
+:::
+
+::: project-link
 📂 Recursos e produtos disponíveis
-</div>
-<div class="project-desc">
+:::
+
+::::: project-desc
 O projeto promove a comunicação de dados e resultados estatísticos para diferentes públicos por meio de visualizações, narrativas e estratégias de divulgação científica. As atividades buscam transformar análises quantitativas em mensagens claras, acessíveis e relevantes para a tomada de decisão.
-<div class="project-downloads">
-  <div class="downloads-title">📂 Recursos e produtos disponíveis</div>
+
+:::: project-downloads
+::: downloads-title
+📂 Recursos e produtos disponíveis
+:::
+
 <a href="https://drive.google.com/file/d/17Eax0VKiYprEpV77hnW7kTAn1zZlJFlB/view?usp=sharing"
   target="_blank"
   class="download-card"
   data-goatcounter-click="download-conbep-storytelling-com-dados"
-  data-goatcounter-title="CONBEP - Storytelling com Dados"> <span class="download-icon">📄</span> <span class="download-text"> <strong>Apresentação</strong> <small>CONBEP — Storytelling com Dados</small> </span> </a>
-</div>
-
-</div>
-</div>
-
-</div>
+  data-goatcounter-title="CONBEP - Storytelling com Dados"> [📄]{.download-icon} [ <strong>Apresentação</strong> <small>CONBEP — Storytelling com Dados</small> ]{.download-text} </a>
+::::
+:::::
+::::::::
+:::::::::
 
 ## 🔬 Pesquisa
 
 ### Projetos Ativos
 
-<div class="projects-grid">
+:::::::::::::::::: projects-grid
+::::: {.project-card .project-pesquisa}
+::: project-title
+[📊]{.project-icon} Chamada CNPq/MCTI/FNDCT nº 44/2024 — Modelos de Regressão e Extensões
+:::
 
-<div class="project-card project-pesquisa">
-<div class="project-title">
-<span class="project-icon">📊</span>
-Chamada CNPq/MCTI/FNDCT nº 44/2024 — Modelos de Regressão e Extensões
-</div>
-<div class="project-desc">
+::: project-desc
 O projeto tem como objetivo desenvolver métodos de avaliação de modelos, contemplando tanto procedimentos de diagnóstico quanto estratégias de seleção baseadas em testes de hipóteses para diferentes classes de modelos de regressão.
-</div>
-</div>
+:::
+:::::
 
-<div class="project-card project-pesquisa">
-<div class="project-title">
-<span class="project-icon">📈</span>
-Métodos de diagnóstico e testes em regressão para dados correlacionados
-</div>
-<div class="project-desc">
+::::: {.project-card .project-pesquisa}
+::: project-title
+[📈]{.project-icon} Métodos de diagnóstico e testes em regressão para dados correlacionados
+:::
+
+::: project-desc
 Bolsa de produtividade em pesquisa nível C, vinculada ao Prof. Juvêncio Santos Nobre.
-</div>
-</div>
+:::
+:::::
 
-<div class="project-card project-pesquisa">
-<div class="project-title">
-<span class="project-icon">🎓</span>
-Cientista-Chefe da Transformação Digital no Ceará
-</div>
-<div class="project-desc">
+::::: {.project-card .project-pesquisa}
+::: project-title
+[🎓]{.project-icon} Cientista-Chefe da Transformação Digital no Ceará
+:::
+
+::: project-desc
 O projeto está alinhado à Agenda 2030 das Nações Unidas e propõe o uso de Tecnologias da Informação e Comunicação para fortalecer a governança pública e apoiar a prestação de serviços de forma proativa, especialmente para populações em situação de vulnerabilidade. Entre seus focos está o desenvolvimento de plataformas digitais para análise de dados sociais, diagnóstico, identificação de microtendências e planejamento estratégico de soluções voltadas ao programa Ceará sem Fome. Trata-se de iniciativa financiada pela FUNCAP e coordenada pelo Cientista-Chefe de Transformação Digital do Governo do Ceará, em parceria com o GREat/UFC e o Laboratório de Inovação e Dados do Governo do Estado do Ceará.
-</div>
-</div>
+:::
+:::::
 
-<div class="project-card project-pesquisa">
-<div class="project-title">
-<span class="project-icon">🦞</span>
-Modelagem integrada na dinâmica populacional de Panulirus argus e Panulirus laevicauda no Brasil: subsídios para avaliação de estoques e definição de cotas de captura
-</div>
-<div class="project-link">
+:::::::: {.project-card .project-pesquisa}
+::: project-title
+[🦞]{.project-icon} Modelagem integrada na dinâmica populacional de Panulirus argus e Panulirus laevicauda no Brasil: subsídios para avaliação de estoques e definição de cotas de captura
+:::
+
+::: project-link
 📂 Recursos e produtos disponíveis
-</div>
-<div class="project-desc">
+:::
+
+::::: project-desc
 O projeto tem como foco auxiliar no acompanhamento dos estoques pesqueiros das lagostas vermelha e verde no Brasil, por meio da organização e análise de dados biológicos, pesqueiros e de comercialização. As atividades envolvem a preparação de relatórios técnicos, a investigação de padrões e tendências ao longo do tempo e o desenvolvimento de estudos aplicados voltados à avaliação dos estoques. A iniciativa contribui para a geração e difusão de conhecimento científico, subsidiando a gestão sustentável da pesca e dialogando com os Objetivos de Desenvolvimento Sustentável, especialmente os ODS 8, 12, 14 e 17.
 
-<div class="project-downloads">
-  <div class="downloads-title">📂 Recursos e produtos disponíveis</div>
+:::: project-downloads
+::: downloads-title
+📂 Recursos e produtos disponíveis
+:::
 
-  <a href="https://drive.google.com/file/d/1NcX11cSvG6BFoGXLKh7qaCY9wRUaD54r/view?usp=sharing"
+<a href="https://drive.google.com/file/d/1NcX11cSvG6BFoGXLKh7qaCY9wRUaD54r/view?usp=sharing"
      target="_blank"
      class="download-card"
      data-goatcounter-click="download-cota-captura-lagosta-abril-2026"
-     data-goatcounter-title="Relatório técnico - Cota de Captura das Lagostas - Abril 2026">
-    <span class="download-icon">📄</span>
-    <span class="download-text">
-      <strong>Relatório técnico</strong>
-      <small>Avaliação da Cota de Captura para as Lagostas no Brasil — abril de 2026</small>
-    </span>
-  </a>
-</div>
-
-</div>
-</div>
-
-</div>
+     data-goatcounter-title="Relatório técnico - Cota de Captura das Lagostas - Abril 2026"> [📄]{.download-icon} [ <strong>Relatório técnico</strong> <small>Avaliação da Cota de Captura para as Lagostas no Brasil — abril de 2026</small> ]{.download-text} </a>
+::::
+:::::
+::::::::
+::::::::::::::::::
 
 ## 📚 Grupos de Pesquisa
 
-<div class="group-grid">
+::::::::::::::: group-grid
+::::: group-card
+::: group-title
+📊 StatLab - Laboratório de Inovação em Estatística e Ciência de Dados
+:::
 
-<div class="group-card">
-<div class="group-title">📊 StatLab - Laboratório de Inovação em Estatística e Ciência de Dados</div>
-<div class="group-link">
-<a href="http://dgp.cnpq.br/dgp/espelhogrupo/2581091034867671" target="_blank">
-🔗 Acessar grupo
-</a>
-</div>
-</div>
+::: group-link
+<a href="http://dgp.cnpq.br/dgp/espelhogrupo/2581091034867671" target="_blank"> 🔗 Acessar grupo </a>
+:::
+:::::
 
-<div class="group-card">
-<div class="group-title">📈 Modelos de Regressão e Aplicações</div>
-<div class="group-link">
-<a href="http://dgp.cnpq.br/dgp/espelhogrupo/6344659534806942" target="_blank">
-🔗 Acessar grupo
-</a>
-</div>
-</div>
+::::: group-card
+::: group-title
+📈 Modelos de Regressão e Aplicações
+:::
 
-<div class="group-card">
-<div class="group-title">⏳ Modelos de Sobrevivência e Aplicações</div>
-<div class="group-link">
-<a href="http://dgp.cnpq.br/dgp/espelhogrupo/9639095385610769" target="_blank">
-🔗 Acessar grupo
-</a>
-</div>
-</div>
+::: group-link
+<a href="http://dgp.cnpq.br/dgp/espelhogrupo/6344659534806942" target="_blank"> 🔗 Acessar grupo </a>
+:::
+:::::
 
-<div class="group-card">
-<div class="group-title">🧠 Métodos Bayesianos</div>
-<div class="group-link">
-<a href="http://dgp.cnpq.br/dgp/espelhogrupo/806824" target="_blank">
-🔗 Acessar grupo
-</a>
-</div>
-</div>
+::::: group-card
+::: group-title
+⏳ Modelos de Sobrevivência e Aplicações
+:::
 
-</div>
+::: group-link
+<a href="http://dgp.cnpq.br/dgp/espelhogrupo/9639095385610769" target="_blank"> 🔗 Acessar grupo </a>
+:::
+:::::
+
+::::: group-card
+::: group-title
+🧠 Métodos Bayesianos
+:::
+
+::: group-link
+<a href="http://dgp.cnpq.br/dgp/espelhogrupo/806824" target="_blank"> 🔗 Acessar grupo </a>
+:::
+:::::
+:::::::::::::::
 
 ## 📖 Produção Científica
 
-<div class="highlight-section">
-<div class="highlight-title">Publicações em Destaque</div>
+::::::: highlight-section
+::: highlight-title
+Publicações em Destaque
+:::
 
-<div class="highlight-card">
-<strong>Alternative Cholesky Decomposition and Scale Mixtures</strong><br>
-Signal Processing, 2025<br>
-<span class="badge A1">A1</span>
-<span class="badge A2">A2</span>
-</div>
+::: highlight-card
+<strong>Alternative Cholesky Decomposition and Scale Mixtures</strong><br> Signal Processing, 2025<br> [A1]{.badge .A1} [A2]{.badge .A2}
+:::
 
-<div class="highlight-card">
-<strong>Robust Quantile Regression for Bounded Variables</strong><br>
-Statistics and Computing, 2024<br>
-<span class="badge A1">A1</span>
-<span class="badge A2">A2</span>
-</div>
+::: highlight-card
+<strong>Robust Quantile Regression for Bounded Variables</strong><br> Statistics and Computing, 2024<br> [A1]{.badge .A1} [A2]{.badge .A2}
+:::
 
-<div class="highlight-card">
-<strong>Robustness of the Student-t Process</strong><br>
-Scandinavian Journal of Statistics, 2023<br>
-<span class="badge A2">A2</span>
-<span class="badge A3">A3</span>
-</div>
-
-</div>
+::: highlight-card
+<strong>Robustness of the Student-t Process</strong><br> Scandinavian Journal of Statistics, 2023<br> [A2]{.badge .A2} [A3]{.badge .A3}
+:::
+:::::::
 
 <details>
+
 <summary style="font-size:1.1em; font-weight:600; cursor:pointer;">
+
 📚 Ver todas as publicações
+
 </summary>
 
 <input type="text" id="search" class="search-box" placeholder="🔍 Buscar publicação..." onkeyup="searchPub()">
 
-<div class="pub-card">
-<strong>Bayesian Inference for Zero-and/or-One Augmented Unit-Gamma</strong><br>
-Anais da Academia Brasileira de Ciências, 2026<br>
-<span class="badge A2">A2</span>
-<span class="badge A3">A3</span>
-</div>
+::: pub-card
+<strong>Bayesian Inference for Zero-and/or-One Augmented Unit-Gamma</strong><br> Anais da Academia Brasileira de Ciências, 2026<br> [A2]{.badge .A2} [A3]{.badge .A3}
+:::
 
-<div class="pub-card">
-<strong>Survival analysis for managing durability of water meters</strong><br>
-Caderno Pedagógico, 2025<br>
-<span class="badge A2">A2</span>
-<span class="badge C">C</span>
-</div>
+::: pub-card
+<strong>Survival analysis for managing durability of water meters</strong><br> Caderno Pedagógico, 2025<br> [A2]{.badge .A2} [C]{.badge .C}
+:::
 
-<div class="pub-card">
-<strong>Unit-Gamma Regression via Reparameterization</strong><br>
-Revista Colombiana de Estadística, 2025<br>
-<span class="badge B2">B2</span>
-</div>
+::: pub-card
+<strong>Unit-Gamma Regression via Reparameterization</strong><br> Revista Colombiana de Estadística, 2025<br> [B2]{.badge .B2}
+:::
 
-<div class="pub-card">
-<strong>Parametric Quantile Regression based on Owen Distribution</strong><br>
-Journal of Statistical Computation and Simulation, 2025
-</div>
+::: pub-card
+<strong>Parametric Quantile Regression based on Owen Distribution</strong><br> Journal of Statistical Computation and Simulation, 2025
+:::
 
-<div class="pub-card">
-<strong>Flexible quasi-beta prime regression models</strong><br>
-Statistics and Its Interface, 2024<br>
-<span class="badge B2">B2</span>
-<span class="badge B3">B3</span>
-</div>
+::: pub-card
+<strong>Flexible quasi-beta prime regression models</strong><br> Statistics and Its Interface, 2024<br> [B2]{.badge .B2} [B3]{.badge .B3}
+:::
 
-<div class="pub-card">
-<strong>Unit gamma regression models for correlated data</strong><br>
-Brazilian Journal of Probability and Statistics, 2023<br>
-<span class="badge B1">B1</span>
-</div>
+::: pub-card
+<strong>Unit gamma regression models for correlated data</strong><br> Brazilian Journal of Probability and Statistics, 2023<br> [B1]{.badge .B1}
+:::
 
-<div class="pub-card">
-<strong>PIPE Algorithm for Probability Distributions</strong><br>
-Anais da Academia Brasileira de Ciências, 2022<br>
-<span class="badge A2">A2</span>
-<span class="badge A3">A3</span>
-</div>
+::: pub-card
+<strong>PIPE Algorithm for Probability Distributions</strong><br> Anais da Academia Brasileira de Ciências, 2022<br> [A2]{.badge .A2} [A3]{.badge .A3}
+:::
 
-<div class="pub-card">
-<strong>Modeling positive random variables with repeated measures</strong><br>
-Journal of Applied Statistics, 2022<br>
-<span class="badge A4">A4</span>
-<span class="badge A3">A3</span>
-</div>
+::: pub-card
+<strong>Modeling positive random variables with repeated measures</strong><br> Journal of Applied Statistics, 2022<br> [A4]{.badge .A4} [A3]{.badge .A3}
+:::
 
 </details>
 
+```{=html}
 <script>
 function searchPub() {
   let input = document.getElementById("search").value.toLowerCase();
@@ -436,3 +426,4 @@ function searchPub() {
   });
 }
 </script>
+```
